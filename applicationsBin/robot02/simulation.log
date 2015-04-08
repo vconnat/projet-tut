@@ -1,0 +1,3871 @@
+[1;34mSimulator constructor[0m
+[1;34m  config.xml successfully loaded [0m
+[1;34mRobotBlocksSimulator constructor[0m
+grid size : 20 x 20 x 20
+World constructor
+[1;31mRobotBlocksWorld constructor[0m
+initShaders
+Compilation of the Vertex Program
+compilation OK
+Compilation of the Fragment Program
+compilation OK
+Shaders initialized.
+loading ../../simulatorCore/smartBlocksTextures/fenetre_onglet.tga
+loading ../../simulatorCore/smartBlocksTextures/boutons_fg.tga
+loading ../../simulatorCore/smartBlocksTextures/boutons_fd.tga
+loading ../../simulatorCore/smartBlocksTextures/slider.tga
+No 'lighted' texture in obj file :repere25.obj
+loading ../../simulatorCore/robotBlocksTextures//texture_plane.tga
+Scheduler constructor
+RobotBlocksScheduler constructor
+new default color :(0.501961,1,0.501961,1)
+blocksize =10,10,10
+position : (4,5,3,0)
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+position : (4,5,4,0)
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+new color :(0.501961,1,0.501961,1)
+position : (4,5,2,0)
+master : 1
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+BuildingBlock constructor (id:0)
+RobotBlocksBlock constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+P2PNetworkInterface constructor
+BlockCode constructor
+RobotBlocksBlockCode constructor
+begin capabilities
+Capability:carry_train
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 3 8 | 8 8 8
+8 0 8 | 7 7 5 | 8 8 8
+8 8 8 | 0 8 0 | 8 8 8
+
+Capability:carry_train.1
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 7 8 | 8 8 8
+8 0 8 | 8 7 3 | 8 8 8
+8 8 8 | 0 5 8 | 8 8 8
+
+Capability:carry_train.2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 8 0 | 8 8 8
+8 0 8 | 5 7 7 | 8 8 8
+8 8 8 | 8 3 8 | 8 8 8
+
+Capability:carry_train.3
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 5 0 | 8 8 8
+8 0 8 | 3 7 8 | 8 8 8
+8 8 8 | 8 7 0 | 8 8 8
+
+Capability:carry_train_end
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 3 3 | 8 8 8
+8 0 8 | 8 6 7 | 8 8 8
+8 8 8 | 8 8 0 | 8 8 8
+
+Capability:carry_train_end.1
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 8 8 | 8 8 8
+8 0 8 | 8 6 3 | 8 8 8
+8 8 8 | 0 7 3 | 8 8 8
+
+Capability:carry_train_end.2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 8 8 | 8 8 8
+8 0 8 | 7 6 8 | 8 8 8
+8 8 8 | 3 3 8 | 8 8 8
+
+Capability:carry_train_end.3
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 3 7 0 | 8 8 8
+8 0 8 | 3 6 8 | 8 8 8
+8 8 8 | 8 8 8 | 8 8 8
+
+Capability:carry_train_end2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 0 3 | 8 8 8
+8 0 8 | 8 6 7 | 8 8 8
+8 8 8 | 8 8 0 | 8 8 8
+
+Capability:carry_train_end2.1
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 8 8 | 8 8 8
+8 0 8 | 8 6 0 | 8 8 8
+8 8 8 | 0 7 3 | 8 8 8
+
+Capability:carry_train_end2.2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 8 8 | 8 8 8
+8 0 8 | 7 6 8 | 8 8 8
+8 8 8 | 3 0 8 | 8 8 8
+
+Capability:carry_train_end2.3
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 3 7 0 | 8 8 8
+8 0 8 | 0 6 8 | 8 8 8
+8 8 8 | 8 8 8 | 8 8 8
+
+Capability:turn_train
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 3 5 0 | 8 8 8
+8 0 8 | 7 7 0 | 8 8 8
+8 8 8 | 0 0 8 | 8 8 8
+
+Capability:turn_train.1
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 7 3 | 8 8 8
+8 0 8 | 0 7 5 | 8 8 8
+8 8 8 | 8 0 0 | 8 8 8
+
+Capability:turn_train.2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 0 0 | 8 8 8
+8 0 8 | 0 7 7 | 8 8 8
+8 8 8 | 0 5 3 | 8 8 8
+
+Capability:turn_train.3
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 0 8 | 8 8 8
+8 0 8 | 5 7 0 | 8 8 8
+8 8 8 | 3 7 0 | 8 8 8
+
+Capability:carry_train2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 3 8 | 8 8 8
+8 0 8 | 7 7 7 | 8 8 8
+8 8 8 | 0 8 0 | 8 8 8
+
+Capability:carry_train2.1
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 7 8 | 8 8 8
+8 0 8 | 8 7 3 | 8 8 8
+8 8 8 | 0 7 8 | 8 8 8
+
+Capability:carry_train2.2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 8 0 | 8 8 8
+8 0 8 | 7 7 7 | 8 8 8
+8 8 8 | 8 3 8 | 8 8 8
+
+Capability:carry_train2.3
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 7 0 | 8 8 8
+8 0 8 | 3 7 8 | 8 8 8
+8 8 8 | 8 7 0 | 8 8 8
+
+Capability:turn_train2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 3 7 0 | 8 8 8
+8 0 8 | 7 7 0 | 8 8 8
+8 8 8 | 0 0 8 | 8 8 8
+
+Capability:turn_train2.1
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 7 3 | 8 8 8
+8 0 8 | 0 7 7 | 8 8 8
+8 8 8 | 8 0 0 | 8 8 8
+
+Capability:turn_train2.2
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 8 0 0 | 8 8 8
+8 0 8 | 0 7 7 | 8 8 8
+8 8 8 | 0 7 3 | 8 8 8
+
+Capability:turn_train2.3
+Ref pos: (0,0,0)
+States condition: 
+8 8 8 | 0 0 8 | 8 8 8
+8 0 8 | 7 7 0 | 8 8 8
+8 8 8 | 3 7 0 | 8 8 8
+
+connection #35 to #89
+connection #35 to #19
+connection #35 to #36
+connection #36 to #90
+connection #36 to #20
+connection #36 to #37
+connection #36 to #35
+connection #37 to #91
+connection #37 to #21
+connection #37 to #38
+connection #37 to #36
+connection #38 to #92
+connection #38 to #22
+connection #38 to #39
+connection #38 to #37
+connection #39 to #93
+connection #39 to #23
+connection #39 to #40
+connection #39 to #38
+connection #40 to #94
+connection #40 to #24
+connection #40 to #41
+connection #40 to #39
+connection #41 to #95
+connection #41 to #25
+connection #41 to #42
+connection #41 to #40
+connection #42 to #96
+connection #42 to #26
+connection #42 to #43
+connection #42 to #41
+connection #43 to #97
+connection #43 to #27
+connection #43 to #44
+connection #43 to #42
+connection #44 to #98
+connection #44 to #28
+connection #44 to #45
+connection #44 to #43
+connection #45 to #99
+connection #45 to #29
+connection #45 to #46
+connection #45 to #44
+connection #46 to #100
+connection #46 to #30
+connection #46 to #47
+connection #46 to #45
+connection #47 to #101
+connection #47 to #31
+connection #47 to #48
+connection #47 to #46
+connection #48 to #102
+connection #48 to #32
+connection #48 to #49
+connection #48 to #47
+connection #49 to #103
+connection #49 to #33
+connection #49 to #48
+connection #50 to #34
+connection #19 to #70
+connection #19 to #4
+connection #19 to #20
+connection #19 to #35
+connection #20 to #71
+connection #20 to #5
+connection #20 to #21
+connection #20 to #36
+connection #20 to #19
+connection #21 to #72
+connection #21 to #6
+connection #21 to #22
+connection #21 to #37
+connection #21 to #20
+connection #22 to #73
+connection #22 to #7
+connection #22 to #23
+connection #22 to #38
+connection #22 to #21
+connection #23 to #74
+connection #23 to #8
+connection #23 to #24
+connection #23 to #39
+connection #23 to #22
+connection #24 to #75
+connection #24 to #9
+connection #24 to #25
+connection #24 to #40
+connection #24 to #23
+connection #25 to #76
+connection #25 to #10
+connection #25 to #26
+connection #25 to #41
+connection #25 to #24
+connection #26 to #77
+connection #26 to #11
+connection #26 to #27
+connection #26 to #42
+connection #26 to #25
+connection #27 to #78
+connection #27 to #12
+connection #27 to #28
+connection #27 to #43
+connection #27 to #26
+connection #28 to #79
+connection #28 to #13
+connection #28 to #29
+connection #28 to #44
+connection #28 to #27
+connection #29 to #80
+connection #29 to #14
+connection #29 to #30
+connection #29 to #45
+connection #29 to #28
+connection #30 to #81
+connection #30 to #15
+connection #30 to #31
+connection #30 to #46
+connection #30 to #29
+connection #31 to #82
+connection #31 to #16
+connection #31 to #32
+connection #31 to #47
+connection #31 to #30
+connection #32 to #83
+connection #32 to #17
+connection #32 to #33
+connection #32 to #48
+connection #32 to #31
+connection #33 to #84
+connection #33 to #18
+connection #33 to #49
+connection #33 to #32
+connection #34 to #88
+connection #34 to #50
+connection #4 to #51
+connection #4 to #5
+connection #4 to #19
+connection #5 to #52
+connection #5 to #6
+connection #5 to #20
+connection #5 to #4
+connection #6 to #53
+connection #6 to #7
+connection #6 to #21
+connection #6 to #5
+connection #7 to #54
+connection #7 to #8
+connection #7 to #22
+connection #7 to #6
+connection #8 to #55
+connection #8 to #9
+connection #8 to #23
+connection #8 to #7
+connection #9 to #56
+connection #9 to #10
+connection #9 to #24
+connection #9 to #8
+connection #10 to #57
+connection #10 to #11
+connection #10 to #25
+connection #10 to #9
+connection #11 to #58
+connection #11 to #12
+connection #11 to #26
+connection #11 to #10
+connection #12 to #59
+connection #12 to #13
+connection #12 to #27
+connection #12 to #11
+connection #13 to #60
+connection #13 to #14
+connection #13 to #28
+connection #13 to #12
+connection #14 to #61
+connection #14 to #15
+connection #14 to #29
+connection #14 to #13
+connection #15 to #62
+connection #15 to #16
+connection #15 to #30
+connection #15 to #14
+connection #16 to #63
+connection #16 to #17
+connection #16 to #31
+connection #16 to #15
+connection #17 to #64
+connection #17 to #18
+connection #17 to #32
+connection #17 to #16
+connection #18 to #65
+connection #18 to #33
+connection #18 to #17
+connection #89 to #70
+connection #89 to #90
+connection #89 to #35
+connection #90 to #71
+connection #90 to #91
+connection #90 to #36
+connection #90 to #89
+connection #91 to #72
+connection #91 to #92
+connection #91 to #37
+connection #91 to #90
+connection #92 to #73
+connection #92 to #93
+connection #92 to #38
+connection #92 to #91
+connection #93 to #74
+connection #93 to #94
+connection #93 to #39
+connection #93 to #92
+connection #94 to #75
+connection #94 to #95
+connection #94 to #40
+connection #94 to #93
+connection #95 to #76
+connection #95 to #96
+connection #95 to #41
+connection #95 to #94
+connection #96 to #77
+connection #96 to #97
+connection #96 to #42
+connection #96 to #95
+connection #97 to #78
+connection #97 to #98
+connection #97 to #43
+connection #97 to #96
+connection #98 to #79
+connection #98 to #99
+connection #98 to #44
+connection #98 to #97
+connection #99 to #80
+connection #99 to #100
+connection #99 to #45
+connection #99 to #98
+connection #100 to #81
+connection #100 to #101
+connection #100 to #46
+connection #100 to #99
+connection #101 to #82
+connection #101 to #102
+connection #101 to #47
+connection #101 to #100
+connection #102 to #83
+connection #102 to #103
+connection #102 to #48
+connection #102 to #101
+connection #103 to #84
+connection #103 to #104
+connection #103 to #49
+connection #103 to #102
+connection #104 to #85
+connection #104 to #105
+connection #104 to #103
+connection #105 to #86
+connection #105 to #106
+connection #105 to #104
+connection #106 to #87
+connection #106 to #105
+connection #70 to #51
+connection #70 to #71
+connection #70 to #89
+connection #70 to #19
+connection #71 to #52
+connection #71 to #72
+connection #71 to #90
+connection #71 to #20
+connection #71 to #70
+connection #72 to #53
+connection #72 to #73
+connection #72 to #91
+connection #72 to #21
+connection #72 to #71
+connection #73 to #54
+connection #73 to #74
+connection #73 to #92
+connection #73 to #22
+connection #73 to #72
+connection #74 to #55
+connection #74 to #75
+connection #74 to #93
+connection #74 to #23
+connection #74 to #73
+connection #75 to #56
+connection #75 to #76
+connection #75 to #94
+connection #75 to #24
+connection #75 to #74
+connection #76 to #57
+connection #76 to #77
+connection #76 to #95
+connection #76 to #25
+connection #76 to #75
+connection #77 to #58
+connection #77 to #78
+connection #77 to #96
+connection #77 to #26
+connection #77 to #76
+connection #78 to #59
+connection #78 to #79
+connection #78 to #97
+connection #78 to #27
+connection #78 to #77
+connection #79 to #60
+connection #79 to #80
+connection #79 to #98
+connection #79 to #28
+connection #79 to #78
+connection #80 to #61
+connection #80 to #81
+connection #80 to #99
+connection #80 to #29
+connection #80 to #79
+connection #81 to #62
+connection #81 to #82
+connection #81 to #100
+connection #81 to #30
+connection #81 to #80
+connection #82 to #63
+connection #82 to #83
+connection #82 to #101
+connection #82 to #31
+connection #82 to #81
+connection #83 to #64
+connection #83 to #84
+connection #83 to #102
+connection #83 to #32
+connection #83 to #82
+connection #84 to #65
+connection #84 to #85
+connection #84 to #103
+connection #84 to #33
+connection #84 to #83
+connection #85 to #66
+connection #85 to #86
+connection #85 to #104
+connection #85 to #84
+connection #86 to #67
+connection #86 to #87
+connection #86 to #105
+connection #86 to #85
+connection #87 to #68
+connection #87 to #88
+connection #87 to #106
+connection #87 to #86
+connection #88 to #69
+connection #88 to #34
+connection #88 to #87
+connection #51 to #52
+connection #51 to #70
+connection #51 to #4
+connection #52 to #53
+connection #52 to #71
+connection #52 to #5
+connection #52 to #51
+connection #53 to #54
+connection #53 to #72
+connection #53 to #6
+connection #53 to #52
+connection #54 to #3
+connection #54 to #55
+connection #54 to #73
+connection #54 to #7
+connection #54 to #53
+connection #55 to #56
+connection #55 to #74
+connection #55 to #8
+connection #55 to #54
+connection #56 to #57
+connection #56 to #75
+connection #56 to #9
+connection #56 to #55
+connection #57 to #58
+connection #57 to #76
+connection #57 to #10
+connection #57 to #56
+connection #58 to #59
+connection #58 to #77
+connection #58 to #11
+connection #58 to #57
+connection #59 to #60
+connection #59 to #78
+connection #59 to #12
+connection #59 to #58
+connection #60 to #61
+connection #60 to #79
+connection #60 to #13
+connection #60 to #59
+connection #61 to #62
+connection #61 to #80
+connection #61 to #14
+connection #61 to #60
+connection #62 to #63
+connection #62 to #81
+connection #62 to #15
+connection #62 to #61
+connection #63 to #64
+connection #63 to #82
+connection #63 to #16
+connection #63 to #62
+connection #64 to #65
+connection #64 to #83
+connection #64 to #17
+connection #64 to #63
+connection #65 to #66
+connection #65 to #84
+connection #65 to #18
+connection #65 to #64
+connection #66 to #67
+connection #66 to #85
+connection #66 to #65
+connection #67 to #68
+connection #67 to #86
+connection #67 to #66
+connection #68 to #69
+connection #68 to #87
+connection #68 to #67
+connection #69 to #88
+connection #69 to #68
+connection #3 to #1
+connection #3 to #54
+connection #1 to #2
+connection #1 to #3
+connection #2 to #1
+loading ../../simulatorCore/robotBlocksTextures/robotTexture.tga
+0.000000 #1: start #1
+0.000000 #2: start #2
+0.000000 #3: start #3(Master Block at 4,5,2)
+0.000000 #4: start #4
+0.000000 #5: start #5
+0.000000 #6: start #6
+0.000000 #7: start #7
+0.000000 #8: start #8
+0.000000 #9: start #9
+0.000000 #10: start #10
+0.000000 #11: start #11
+0.000000 #12: start #12
+0.000000 #13: start #13
+0.000000 #14: start #14
+0.000000 #15: start #15
+0.000000 #16: start #16
+0.000000 #17: start #17
+0.000000 #18: start #18
+0.000000 #19: start #19
+0.000000 #20: start #20
+0.000000 #21: start #21
+0.000000 #22: start #22
+0.000000 #23: start #23
+0.000000 #24: start #24
+0.000000 #25: start #25
+0.000000 #26: start #26
+0.000000 #27: start #27
+0.000000 #28: start #28
+0.000000 #29: start #29
+0.000000 #30: start #30
+0.000000 #31: start #31
+0.000000 #32: start #32
+0.000000 #33: start #33
+0.000000 #34: start #34
+0.000000 #35: start #35
+0.000000 #36: start #36
+0.000000 #37: start #37
+0.000000 #38: start #38
+0.000000 #39: start #39
+0.000000 #40: start #40
+0.000000 #41: start #41
+0.000000 #42: start #42
+0.000000 #43: start #43
+0.000000 #44: start #44
+0.000000 #45: start #45
+0.000000 #46: start #46
+0.000000 #47: start #47
+0.000000 #48: start #48
+0.000000 #49: start #49
+0.000000 #50: start #50
+0.000000 #51: start #51
+0.000000 #52: start #52
+0.000000 #53: start #53
+0.000000 #54: start #54
+0.000000 #55: start #55
+0.000000 #56: start #56
+0.000000 #57: start #57
+0.000000 #58: start #58
+0.000000 #59: start #59
+0.000000 #60: start #60
+0.000000 #61: start #61
+0.000000 #62: start #62
+0.000000 #63: start #63
+0.000000 #64: start #64
+0.000000 #65: start #65
+0.000000 #66: start #66
+0.000000 #67: start #67
+0.000000 #68: start #68
+0.000000 #69: start #69
+0.000000 #70: start #70
+0.000000 #71: start #71
+0.000000 #72: start #72
+0.000000 #73: start #73
+0.000000 #74: start #74
+0.000000 #75: start #75
+0.000000 #76: start #76
+0.000000 #77: start #77
+0.000000 #78: start #78
+0.000000 #79: start #79
+0.000000 #80: start #80
+0.000000 #81: start #81
+0.000000 #82: start #82
+0.000000 #83: start #83
+0.000000 #84: start #84
+0.000000 #85: start #85
+0.000000 #86: start #86
+0.000000 #87: start #87
+0.000000 #88: start #88
+0.000000 #89: start #89
+0.000000 #90: start #90
+0.000000 #91: start #91
+0.000000 #92: start #92
+0.000000 #93: start #93
+0.000000 #94: start #94
+0.000000 #95: start #95
+0.000000 #96: start #96
+0.000000 #97: start #97
+0.000000 #98: start #98
+0.000000 #99: start #99
+0.000000 #100: start #100
+0.000000 #101: start #101
+0.000000 #102: start #102
+0.000000 #103: start #103
+0.000000 #104: start #104
+0.000000 #105: start #105
+0.000000 #106: start #106
+0.500032 #1:  recu : 3 MAP : 0,0,1 FRAME 1
+0.500032 #54:  recu : 3 MAP : 0,0,-1 FRAME 1
+1.000064 #2:  recu : 1 MAP : 0,0,2 FRAME 1
+1.000064 #2: DEBUG :1: END : 0 FRAME : 0
+1.000064 #2: SEND ENDMAP : 1
+1.000064 #7:  recu : 54 MAP : 0,0,-2 FRAME 1
+1.000064 #73:  recu : 54 MAP : -1,0,-1 FRAME 1
+1.000064 #55:  recu : 54 MAP : 0,1,-1 FRAME 1
+1.000064 #53:  recu : 54 MAP : 0,-1,-1 FRAME 1
+1.500096 #1: FRAME from 2 : 0,0,2!2
+1.500096 #22:  recu : 7 MAP : -1,0,-2 FRAME 1
+1.500096 #8:  recu : 7 MAP : 0,1,-2 FRAME 1
+1.500096 #6:  recu : 7 MAP : 0,-1,-2 FRAME 1
+1.500096 #92:  recu : 73 MAP : -2,0,-1 FRAME 1
+1.500096 #74:  recu : 73 MAP : -1,1,-1 FRAME 1
+1.500096 #72:  recu : 73 MAP : -1,-1,-1 FRAME 1
+1.500096 #56:  recu : 55 MAP : 0,2,-1 FRAME 1
+1.500096 #52:  recu : 53 MAP : 0,-2,-1 FRAME 1
+1.500096 #22: SEND END MAP INSTANT TO 73
+1.500096 #22: SEND ENDMAP : 73
+1.500096 #8: SEND END MAP INSTANT TO 55
+1.500096 #8: SEND ENDMAP : 55
+1.500096 #6: SEND END MAP INSTANT TO 53
+1.500096 #6: SEND ENDMAP : 53
+1.500096 #74: SEND END MAP INSTANT TO 55
+1.500096 #74: SEND ENDMAP : 55
+1.500096 #72: SEND END MAP INSTANT TO 53
+1.500096 #72: SEND ENDMAP : 53
+1.500128 #1: END MAP MSG : 0 FROM 2
+1.500128 #1: DEBUG :3: END : 0 FRAME : 1
+1.500128 #1: DEBUG :3: END : 0 FRAME : 0
+1.500128 #1: SEND ENDMAP : 3
+2.000128 #73: SEND END MAP INSTANT TO 22
+2.000128 #73: SEND ENDMAP : 22
+2.000128 #38:  recu : 22 MAP : -2,0,-2 FRAME 1
+2.000128 #23:  recu : 22 MAP : -1,1,-2 FRAME 1
+2.000128 #21:  recu : 22 MAP : -1,-1,-2 FRAME 1
+2.000128 #55: SEND END MAP INSTANT TO 8
+2.000128 #55: SEND ENDMAP : 8
+2.000128 #9:  recu : 8 MAP : 0,2,-2 FRAME 1
+2.000128 #53: SEND END MAP INSTANT TO 6
+2.000128 #53: SEND ENDMAP : 6
+2.000128 #5:  recu : 6 MAP : 0,-2,-2 FRAME 1
+2.000128 #93:  recu : 92 MAP : -2,1,-1 FRAME 1
+2.000128 #91:  recu : 92 MAP : -2,-1,-1 FRAME 1
+2.000128 #75:  recu : 74 MAP : -1,2,-1 FRAME 1
+2.000128 #71:  recu : 72 MAP : -1,-2,-1 FRAME 1
+2.000128 #57:  recu : 56 MAP : 0,3,-1 FRAME 1
+2.000128 #51:  recu : 52 MAP : 0,-3,-1 FRAME 1
+2.000128 #38: SEND END MAP INSTANT TO 92
+2.000128 #38: SEND ENDMAP : 92
+2.000128 #23: SEND END MAP INSTANT TO 8
+2.000128 #23: SEND ENDMAP : 8
+2.000128 #21: SEND END MAP INSTANT TO 6
+2.000128 #21: SEND ENDMAP : 6
+2.000128 #55: SEND END MAP INSTANT TO 74
+2.000128 #55: SEND ENDMAP : 74
+2.000128 #9: SEND END MAP INSTANT TO 56
+2.000128 #9: SEND ENDMAP : 56
+2.000128 #53: SEND END MAP INSTANT TO 72
+2.000128 #53: SEND ENDMAP : 72
+2.000128 #5: SEND END MAP INSTANT TO 52
+2.000128 #5: SEND ENDMAP : 52
+2.000128 #93: SEND END MAP INSTANT TO 74
+2.000128 #93: SEND ENDMAP : 74
+2.000128 #91: SEND END MAP INSTANT TO 72
+2.000128 #91: SEND ENDMAP : 72
+2.000128 #75: SEND END MAP INSTANT TO 56
+2.000128 #75: SEND ENDMAP : 56
+2.000128 #71: SEND END MAP INSTANT TO 52
+2.000128 #71: SEND ENDMAP : 52
+2.000128 #23: SEND END MAP INSTANT TO 74
+2.000128 #23: SEND ENDMAP : 74
+2.000128 #21: SEND END MAP INSTANT TO 72
+2.000128 #21: SEND ENDMAP : 72
+2.000160 #73: END MAP MSG : 3 FROM 22
+2.000160 #55: END MAP MSG : 2 FROM 8
+2.000160 #53: END MAP MSG : 2 FROM 6
+2.000160 #3: RECU 1 : 0,0,1
+2.000160 #55: END MAP MSG : 1 FROM 74
+2.000160 #53: END MAP MSG : 1 FROM 72
+2.000192 #3: RECU 2 : 0,0,2
+2.000224 #3: END MAP MSG : 1 FROM 1
+2.500160 #22: END MAP MSG : 3 FROM 73
+2.500160 #92: SEND END MAP INSTANT TO 38
+2.500160 #92: SEND ENDMAP : 38
+2.500160 #39:  recu : 38 MAP : -2,1,-2 FRAME 1
+2.500160 #37:  recu : 38 MAP : -2,-1,-2 FRAME 1
+2.500160 #74: SEND END MAP INSTANT TO 23
+2.500160 #74: SEND ENDMAP : 23
+2.500160 #8: SEND END MAP INSTANT TO 23
+2.500160 #8: SEND ENDMAP : 23
+2.500160 #24:  recu : 23 MAP : -1,2,-2 FRAME 1
+2.500160 #72: SEND END MAP INSTANT TO 21
+2.500160 #72: SEND ENDMAP : 21
+2.500160 #6: SEND END MAP INSTANT TO 21
+2.500160 #6: SEND ENDMAP : 21
+2.500160 #20:  recu : 21 MAP : -1,-2,-2 FRAME 1
+2.500160 #56: SEND END MAP INSTANT TO 9
+2.500160 #56: SEND ENDMAP : 9
+2.500160 #10:  recu : 9 MAP : 0,3,-2 FRAME 1
+2.500160 #52: SEND END MAP INSTANT TO 5
+2.500160 #52: SEND ENDMAP : 5
+2.500160 #4:  recu : 5 MAP : 0,-3,-2 FRAME 1
+2.500160 #94:  recu : 93 MAP : -2,2,-1 FRAME 1
+2.500160 #90:  recu : 91 MAP : -2,-2,-1 FRAME 1
+2.500160 #76:  recu : 75 MAP : -1,3,-1 FRAME 1
+2.500160 #70:  recu : 71 MAP : -1,-3,-1 FRAME 1
+2.500160 #58:  recu : 57 MAP : 0,4,-1 FRAME 1
+2.500160 #39: SEND END MAP INSTANT TO 23
+2.500160 #39: SEND ENDMAP : 23
+2.500160 #37: SEND END MAP INSTANT TO 21
+2.500160 #37: SEND ENDMAP : 21
+2.500160 #74: SEND END MAP INSTANT TO 93
+2.500160 #74: SEND ENDMAP : 93
+2.500160 #8: END MAP MSG : 2 FROM 55
+2.500160 #24: SEND END MAP INSTANT TO 9
+2.500160 #24: SEND ENDMAP : 9
+2.500160 #72: SEND END MAP INSTANT TO 91
+2.500160 #72: SEND ENDMAP : 91
+2.500160 #6: END MAP MSG : 2 FROM 53
+2.500160 #20: SEND END MAP INSTANT TO 5
+2.500160 #20: SEND ENDMAP : 5
+2.500160 #56: SEND END MAP INSTANT TO 75
+2.500160 #56: SEND ENDMAP : 75
+2.500160 #10: SEND END MAP INSTANT TO 57
+2.500160 #10: SEND ENDMAP : 57
+2.500160 #52: SEND END MAP INSTANT TO 71
+2.500160 #52: SEND ENDMAP : 71
+2.500160 #4: SEND END MAP INSTANT TO 51
+2.500160 #4: SEND ENDMAP : 51
+2.500160 #94: SEND END MAP INSTANT TO 75
+2.500160 #94: SEND ENDMAP : 75
+2.500160 #90: SEND END MAP INSTANT TO 71
+2.500160 #90: SEND ENDMAP : 71
+2.500160 #76: SEND END MAP INSTANT TO 57
+2.500160 #76: SEND ENDMAP : 57
+2.500160 #70: SEND END MAP INSTANT TO 51
+2.500160 #70: SEND ENDMAP : 51
+2.500160 #39: SEND END MAP INSTANT TO 93
+2.500160 #39: SEND ENDMAP : 93
+2.500160 #37: SEND END MAP INSTANT TO 91
+2.500160 #37: SEND ENDMAP : 91
+2.500160 #74: END MAP MSG : 3 FROM 55
+2.500160 #24: SEND END MAP INSTANT TO 75
+2.500160 #24: SEND ENDMAP : 75
+2.500160 #72: END MAP MSG : 3 FROM 53
+2.500160 #20: SEND END MAP INSTANT TO 71
+2.500160 #20: SEND ENDMAP : 71
+2.500192 #92: END MAP MSG : 2 FROM 38
+2.500192 #74: END MAP MSG : 2 FROM 23
+2.500192 #8: END MAP MSG : 1 FROM 23
+2.500192 #72: END MAP MSG : 2 FROM 21
+2.500192 #6: END MAP MSG : 1 FROM 21
+2.500192 #56: END MAP MSG : 2 FROM 9
+2.500192 #52: END MAP MSG : 2 FROM 5
+2.500192 #74: END MAP MSG : 1 FROM 93
+2.500192 #72: END MAP MSG : 1 FROM 91
+2.500192 #56: END MAP MSG : 1 FROM 75
+2.500192 #52: END MAP MSG : 1 FROM 71
+3.000192 #38: END MAP MSG : 2 FROM 92
+3.000192 #93: SEND END MAP INSTANT TO 39
+3.000192 #93: SEND ENDMAP : 39
+3.000192 #23: SEND END MAP INSTANT TO 39
+3.000192 #23: SEND ENDMAP : 39
+3.000192 #40:  recu : 39 MAP : -2,2,-2 FRAME 1
+3.000192 #91: SEND END MAP INSTANT TO 37
+3.000192 #91: SEND ENDMAP : 37
+3.000192 #21: SEND END MAP INSTANT TO 37
+3.000192 #21: SEND ENDMAP : 37
+3.000192 #36:  recu : 37 MAP : -2,-2,-2 FRAME 1
+3.000192 #75: SEND END MAP INSTANT TO 24
+3.000192 #75: SEND ENDMAP : 24
+3.000192 #9: SEND END MAP INSTANT TO 24
+3.000192 #9: SEND ENDMAP : 24
+3.000192 #25:  recu : 24 MAP : -1,3,-2 FRAME 1
+3.000192 #71: SEND END MAP INSTANT TO 20
+3.000192 #71: SEND ENDMAP : 20
+3.000192 #5: SEND END MAP INSTANT TO 20
+3.000192 #5: SEND ENDMAP : 20
+3.000192 #19:  recu : 20 MAP : -1,-3,-2 FRAME 1
+3.000192 #57: SEND END MAP INSTANT TO 10
+3.000192 #57: SEND ENDMAP : 10
+3.000192 #11:  recu : 10 MAP : 0,4,-2 FRAME 1
+3.000192 #51: SEND END MAP INSTANT TO 4
+3.000192 #51: SEND ENDMAP : 4
+3.000192 #95:  recu : 94 MAP : -2,3,-1 FRAME 1
+3.000192 #89:  recu : 90 MAP : -2,-3,-1 FRAME 1
+3.000192 #77:  recu : 76 MAP : -1,4,-1 FRAME 1
+3.000192 #59:  recu : 58 MAP : 0,5,-1 FRAME 1
+3.000192 #93: END MAP MSG : 2 FROM 74
+3.000192 #23: END MAP MSG : 3 FROM 74
+3.000192 #40: SEND END MAP INSTANT TO 24
+3.000192 #40: SEND ENDMAP : 24
+3.000192 #91: END MAP MSG : 2 FROM 72
+3.000192 #21: END MAP MSG : 3 FROM 72
+3.000192 #36: SEND END MAP INSTANT TO 20
+3.000192 #36: SEND ENDMAP : 20
+3.000192 #75: SEND END MAP INSTANT TO 94
+3.000192 #75: SEND ENDMAP : 94
+3.000192 #9: END MAP MSG : 2 FROM 56
+3.000192 #25: SEND END MAP INSTANT TO 10
+3.000192 #25: SEND ENDMAP : 10
+3.000192 #71: SEND END MAP INSTANT TO 90
+3.000192 #71: SEND ENDMAP : 90
+3.000192 #5: END MAP MSG : 2 FROM 52
+3.000192 #19: SEND END MAP INSTANT TO 4
+3.000192 #19: SEND ENDMAP : 4
+3.000192 #57: SEND END MAP INSTANT TO 76
+3.000192 #57: SEND ENDMAP : 76
+3.000192 #11: SEND END MAP INSTANT TO 58
+3.000192 #11: SEND ENDMAP : 58
+3.000192 #51: SEND END MAP INSTANT TO 70
+3.000192 #51: SEND ENDMAP : 70
+3.000192 #95: SEND END MAP INSTANT TO 76
+3.000192 #95: SEND ENDMAP : 76
+3.000192 #89: SEND END MAP INSTANT TO 70
+3.000192 #89: SEND ENDMAP : 70
+3.000192 #77: SEND END MAP INSTANT TO 58
+3.000192 #77: SEND ENDMAP : 58
+3.000192 #23: END MAP MSG : 2 FROM 8
+3.000192 #40: SEND END MAP INSTANT TO 94
+3.000192 #40: SEND ENDMAP : 94
+3.000192 #21: END MAP MSG : 2 FROM 6
+3.000192 #36: SEND END MAP INSTANT TO 90
+3.000192 #36: SEND ENDMAP : 90
+3.000192 #75: END MAP MSG : 3 FROM 56
+3.000192 #25: SEND END MAP INSTANT TO 76
+3.000192 #25: SEND ENDMAP : 76
+3.000192 #71: END MAP MSG : 3 FROM 52
+3.000192 #19: SEND END MAP INSTANT TO 70
+3.000192 #19: SEND ENDMAP : 70
+3.000224 #93: END MAP MSG : 1 FROM 39
+3.000224 #23: END MAP MSG : 1 FROM 39
+3.000224 #91: END MAP MSG : 1 FROM 37
+3.000224 #21: END MAP MSG : 1 FROM 37
+3.000224 #75: END MAP MSG : 2 FROM 24
+3.000224 #9: END MAP MSG : 1 FROM 24
+3.000224 #71: END MAP MSG : 2 FROM 20
+3.000224 #5: END MAP MSG : 1 FROM 20
+3.000224 #57: END MAP MSG : 2 FROM 10
+3.000224 #51: END MAP MSG : 1 FROM 4
+3.000224 #75: END MAP MSG : 1 FROM 94
+3.000224 #71: END MAP MSG : 1 FROM 90
+3.000224 #57: END MAP MSG : 1 FROM 76
+3.000224 #51: END MAP MSG : 0 FROM 70
+3.000224 #51: DEBUG :52: END : 0 FRAME : 0
+3.000224 #51: SEND ENDMAP : 52
+3.500224 #39: END MAP MSG : 2 FROM 93
+3.500224 #94: SEND END MAP INSTANT TO 40
+3.500224 #94: SEND ENDMAP : 40
+3.500224 #24: SEND END MAP INSTANT TO 40
+3.500224 #24: SEND ENDMAP : 40
+3.500224 #41:  recu : 40 MAP : -2,3,-2 FRAME 1
+3.500224 #37: END MAP MSG : 2 FROM 91
+3.500224 #90: SEND END MAP INSTANT TO 36
+3.500224 #90: SEND ENDMAP : 36
+3.500224 #20: SEND END MAP INSTANT TO 36
+3.500224 #20: SEND ENDMAP : 36
+3.500224 #35:  recu : 36 MAP : -2,-3,-2 FRAME 1
+3.500224 #76: SEND END MAP INSTANT TO 25
+3.500224 #76: SEND ENDMAP : 25
+3.500224 #10: SEND END MAP INSTANT TO 25
+3.500224 #10: SEND ENDMAP : 25
+3.500224 #26:  recu : 25 MAP : -1,4,-2 FRAME 1
+3.500224 #70: SEND END MAP INSTANT TO 19
+3.500224 #70: SEND ENDMAP : 19
+3.500224 #4: SEND END MAP INSTANT TO 19
+3.500224 #4: SEND ENDMAP : 19
+3.500224 #58: SEND END MAP INSTANT TO 11
+3.500224 #58: SEND ENDMAP : 11
+3.500224 #12:  recu : 11 MAP : 0,5,-2 FRAME 1
+3.500224 #96:  recu : 95 MAP : -2,4,-1 FRAME 1
+3.500224 #78:  recu : 77 MAP : -1,5,-1 FRAME 1
+3.500224 #60:  recu : 59 MAP : 0,6,-1 FRAME 1
+3.500224 #39: END MAP MSG : 1 FROM 23
+3.500224 #94: END MAP MSG : 2 FROM 75
+3.500224 #24: END MAP MSG : 3 FROM 75
+3.500224 #41: SEND END MAP INSTANT TO 25
+3.500224 #41: SEND ENDMAP : 25
+3.500224 #37: END MAP MSG : 1 FROM 21
+3.500224 #90: END MAP MSG : 2 FROM 71
+3.500224 #20: END MAP MSG : 3 FROM 71
+3.500224 #35: SEND END MAP INSTANT TO 19
+3.500224 #35: SEND ENDMAP : 19
+3.500224 #76: SEND END MAP INSTANT TO 95
+3.500224 #76: SEND ENDMAP : 95
+3.500224 #10: END MAP MSG : 2 FROM 57
+3.500224 #26: SEND END MAP INSTANT TO 11
+3.500224 #26: SEND ENDMAP : 11
+3.500224 #70: SEND END MAP INSTANT TO 89
+3.500224 #70: SEND ENDMAP : 89
+3.500224 #4: END MAP MSG : 1 FROM 51
+3.500224 #58: SEND END MAP INSTANT TO 77
+3.500224 #58: SEND ENDMAP : 77
+3.500224 #12: SEND END MAP INSTANT TO 59
+3.500224 #12: SEND ENDMAP : 59
+3.500224 #96: SEND END MAP INSTANT TO 77
+3.500224 #96: SEND ENDMAP : 77
+3.500224 #78: SEND END MAP INSTANT TO 59
+3.500224 #78: SEND ENDMAP : 59
+3.500224 #24: END MAP MSG : 2 FROM 9
+3.500224 #41: SEND END MAP INSTANT TO 95
+3.500224 #41: SEND ENDMAP : 95
+3.500224 #20: END MAP MSG : 2 FROM 5
+3.500224 #35: SEND END MAP INSTANT TO 89
+3.500224 #35: SEND ENDMAP : 89
+3.500224 #76: END MAP MSG : 3 FROM 57
+3.500224 #26: SEND END MAP INSTANT TO 77
+3.500224 #26: SEND ENDMAP : 77
+3.500224 #70: END MAP MSG : 2 FROM 51
+3.500256 #94: END MAP MSG : 1 FROM 40
+3.500256 #24: END MAP MSG : 1 FROM 40
+3.500256 #90: END MAP MSG : 1 FROM 36
+3.500256 #20: END MAP MSG : 1 FROM 36
+3.500256 #76: END MAP MSG : 2 FROM 25
+3.500256 #10: END MAP MSG : 1 FROM 25
+3.500256 #70: END MAP MSG : 1 FROM 19
+3.500256 #4: END MAP MSG : 0 FROM 19
+3.500256 #4: DEBUG :5: END : 0 FRAME : 0
+3.500256 #4: SEND ENDMAP : 5
+3.500256 #58: END MAP MSG : 2 FROM 11
+3.500256 #52: FRAME from 51 : 0,-3,-1!2
+3.500256 #76: END MAP MSG : 1 FROM 95
+3.500256 #70: END MAP MSG : 0 FROM 89
+3.500256 #70: DEBUG :71: END : 0 FRAME : 0
+3.500256 #70: SEND ENDMAP : 71
+3.500256 #58: END MAP MSG : 1 FROM 77
+3.500288 #52: END MAP MSG : 0 FROM 51
+3.500288 #52: DEBUG :53: END : 0 FRAME : 1
+3.500288 #52: DEBUG :53: END : 0 FRAME : 0
+3.500288 #52: SEND ENDMAP : 53
+4.000256 #40: END MAP MSG : 2 FROM 94
+4.000256 #95: SEND END MAP INSTANT TO 41
+4.000256 #95: SEND ENDMAP : 41
+4.000256 #25: SEND END MAP INSTANT TO 41
+4.000256 #25: SEND ENDMAP : 41
+4.000256 #42:  recu : 41 MAP : -2,4,-2 FRAME 1
+4.000256 #36: END MAP MSG : 2 FROM 90
+4.000256 #89: SEND END MAP INSTANT TO 35
+4.000256 #89: SEND ENDMAP : 35
+4.000256 #19: SEND END MAP INSTANT TO 35
+4.000256 #19: SEND ENDMAP : 35
+4.000256 #77: SEND END MAP INSTANT TO 26
+4.000256 #77: SEND ENDMAP : 26
+4.000256 #11: SEND END MAP INSTANT TO 26
+4.000256 #11: SEND ENDMAP : 26
+4.000256 #27:  recu : 26 MAP : -1,5,-2 FRAME 1
+4.000256 #59: SEND END MAP INSTANT TO 12
+4.000256 #59: SEND ENDMAP : 12
+4.000256 #13:  recu : 12 MAP : 0,6,-2 FRAME 1
+4.000256 #97:  recu : 96 MAP : -2,5,-1 FRAME 1
+4.000256 #79:  recu : 78 MAP : -1,6,-1 FRAME 1
+4.000256 #61:  recu : 60 MAP : 0,7,-1 FRAME 1
+4.000256 #40: END MAP MSG : 1 FROM 24
+4.000256 #95: END MAP MSG : 2 FROM 76
+4.000256 #25: END MAP MSG : 3 FROM 76
+4.000256 #42: SEND END MAP INSTANT TO 26
+4.000256 #42: SEND ENDMAP : 26
+4.000256 #36: END MAP MSG : 1 FROM 20
+4.000256 #89: END MAP MSG : 1 FROM 70
+4.000256 #19: END MAP MSG : 2 FROM 70
+4.000256 #77: SEND END MAP INSTANT TO 96
+4.000256 #77: SEND ENDMAP : 96
+4.000256 #11: END MAP MSG : 2 FROM 58
+4.000256 #27: SEND END MAP INSTANT TO 12
+4.000256 #27: SEND ENDMAP : 12
+4.000256 #59: SEND END MAP INSTANT TO 78
+4.000256 #59: SEND ENDMAP : 78
+4.000256 #13: SEND END MAP INSTANT TO 60
+4.000256 #13: SEND ENDMAP : 60
+4.000256 #97: SEND END MAP INSTANT TO 78
+4.000256 #97: SEND ENDMAP : 78
+4.000256 #79: SEND END MAP INSTANT TO 60
+4.000256 #79: SEND ENDMAP : 60
+4.000256 #25: END MAP MSG : 2 FROM 10
+4.000256 #42: SEND END MAP INSTANT TO 96
+4.000256 #42: SEND ENDMAP : 96
+4.000256 #19: END MAP MSG : 1 FROM 4
+4.000256 #77: END MAP MSG : 3 FROM 58
+4.000256 #27: SEND END MAP INSTANT TO 78
+4.000256 #27: SEND ENDMAP : 78
+4.000288 #95: END MAP MSG : 1 FROM 41
+4.000288 #25: END MAP MSG : 1 FROM 41
+4.000288 #89: END MAP MSG : 0 FROM 35
+4.000288 #89: DEBUG :90: END : 0 FRAME : 0
+4.000288 #89: SEND ENDMAP : 90
+4.000288 #19: END MAP MSG : 0 FROM 35
+4.000288 #19: DEBUG :20: END : 0 FRAME : 0
+4.000288 #19: SEND ENDMAP : 20
+4.000288 #77: END MAP MSG : 2 FROM 26
+4.000288 #11: END MAP MSG : 1 FROM 26
+4.000288 #59: END MAP MSG : 2 FROM 12
+4.000288 #5: FRAME from 4 : 0,-3,-2!2
+4.000288 #71: FRAME from 70 : -1,-3,-1!2
+4.000288 #77: END MAP MSG : 1 FROM 96
+4.000288 #59: END MAP MSG : 1 FROM 78
+4.000320 #5: END MAP MSG : 0 FROM 4
+4.000320 #5: DEBUG :6: END : 0 FRAME : 1
+4.000320 #5: DEBUG :6: END : 0 FRAME : 0
+4.000320 #5: SEND ENDMAP : 6
+4.000320 #71: END MAP MSG : 0 FROM 70
+4.000320 #71: DEBUG :72: END : 0 FRAME : 1
+4.000320 #71: DEBUG :72: END : 0 FRAME : 0
+4.000320 #71: SEND ENDMAP : 72
+4.000320 #53: FRAME from 52 : 0,-2,-1!2
+4.000352 #53: FRAME from 51 : 0,-3,-1!3
+4.000384 #53: END MAP MSG : 0 FROM 52
+4.000384 #53: DEBUG :54: END : 0 FRAME : 2
+4.000384 #53: DEBUG :54: END : 0 FRAME : 1
+4.000384 #53: DEBUG :54: END : 0 FRAME : 0
+4.000384 #53: SEND ENDMAP : 54
+4.500288 #41: END MAP MSG : 2 FROM 95
+4.500288 #96: SEND END MAP INSTANT TO 42
+4.500288 #96: SEND ENDMAP : 42
+4.500288 #26: SEND END MAP INSTANT TO 42
+4.500288 #26: SEND ENDMAP : 42
+4.500288 #43:  recu : 42 MAP : -2,5,-2 FRAME 1
+4.500288 #35: END MAP MSG : 1 FROM 89
+4.500288 #78: SEND END MAP INSTANT TO 27
+4.500288 #78: SEND ENDMAP : 27
+4.500288 #12: SEND END MAP INSTANT TO 27
+4.500288 #12: SEND ENDMAP : 27
+4.500288 #28:  recu : 27 MAP : -1,6,-2 FRAME 1
+4.500288 #60: SEND END MAP INSTANT TO 13
+4.500288 #60: SEND ENDMAP : 13
+4.500288 #14:  recu : 13 MAP : 0,7,-2 FRAME 1
+4.500288 #98:  recu : 97 MAP : -2,6,-1 FRAME 1
+4.500288 #80:  recu : 79 MAP : -1,7,-1 FRAME 1
+4.500288 #62:  recu : 61 MAP : 0,8,-1 FRAME 1
+4.500288 #41: END MAP MSG : 1 FROM 25
+4.500288 #96: END MAP MSG : 2 FROM 77
+4.500288 #26: END MAP MSG : 3 FROM 77
+4.500288 #43: SEND END MAP INSTANT TO 27
+4.500288 #43: SEND ENDMAP : 27
+4.500288 #35: END MAP MSG : 0 FROM 19
+4.500288 #35: DEBUG :36: END : 0 FRAME : 0
+4.500288 #35: SEND ENDMAP : 36
+4.500288 #78: SEND END MAP INSTANT TO 97
+4.500288 #78: SEND ENDMAP : 97
+4.500288 #12: END MAP MSG : 2 FROM 59
+4.500288 #28: SEND END MAP INSTANT TO 13
+4.500288 #28: SEND ENDMAP : 13
+4.500288 #60: SEND END MAP INSTANT TO 79
+4.500288 #60: SEND ENDMAP : 79
+4.500288 #14: SEND END MAP INSTANT TO 61
+4.500288 #14: SEND ENDMAP : 61
+4.500288 #98: SEND END MAP INSTANT TO 79
+4.500288 #98: SEND ENDMAP : 79
+4.500288 #80: SEND END MAP INSTANT TO 61
+4.500288 #80: SEND ENDMAP : 61
+4.500288 #26: END MAP MSG : 2 FROM 11
+4.500288 #43: SEND END MAP INSTANT TO 97
+4.500288 #43: SEND ENDMAP : 97
+4.500288 #78: END MAP MSG : 3 FROM 59
+4.500288 #28: SEND END MAP INSTANT TO 79
+4.500288 #28: SEND ENDMAP : 79
+4.500320 #96: END MAP MSG : 1 FROM 42
+4.500320 #26: END MAP MSG : 1 FROM 42
+4.500320 #78: END MAP MSG : 2 FROM 27
+4.500320 #12: END MAP MSG : 1 FROM 27
+4.500320 #60: END MAP MSG : 2 FROM 13
+4.500320 #90: FRAME from 89 : -2,-3,-1!2
+4.500320 #20: FRAME from 19 : -1,-3,-2!2
+4.500320 #78: END MAP MSG : 1 FROM 97
+4.500320 #60: END MAP MSG : 1 FROM 79
+4.500352 #90: END MAP MSG : 0 FROM 89
+4.500352 #90: DEBUG :91: END : 0 FRAME : 1
+4.500352 #90: DEBUG :91: END : 0 FRAME : 0
+4.500352 #90: SEND ENDMAP : 91
+4.500352 #20: END MAP MSG : 0 FROM 19
+4.500352 #20: DEBUG :21: END : 0 FRAME : 1
+4.500352 #20: DEBUG :21: END : 0 FRAME : 0
+4.500352 #20: SEND ENDMAP : 21
+4.500352 #6: FRAME from 5 : 0,-2,-2!2
+4.500352 #72: FRAME from 71 : -1,-2,-1!2
+4.500384 #6: FRAME from 4 : 0,-3,-2!3
+4.500384 #72: FRAME from 70 : -1,-3,-1!3
+4.500416 #6: END MAP MSG : 0 FROM 5
+4.500416 #6: DEBUG :7: END : 0 FRAME : 2
+4.500416 #6: DEBUG :7: END : 0 FRAME : 1
+4.500416 #6: DEBUG :7: END : 0 FRAME : 0
+4.500416 #6: SEND ENDMAP : 7
+4.500416 #72: END MAP MSG : 0 FROM 71
+4.500416 #72: DEBUG :73: END : 0 FRAME : 2
+4.500416 #72: DEBUG :73: END : 0 FRAME : 1
+4.500416 #72: DEBUG :73: END : 0 FRAME : 0
+4.500416 #72: SEND ENDMAP : 73
+4.500416 #54: FRAME from 53 : 0,-1,-1!2
+4.500448 #54: FRAME from 52 : 0,-2,-1!3
+4.500480 #54: FRAME from 51 : 0,-3,-1!4
+4.500512 #54: END MAP MSG : 3 FROM 53
+5.000320 #42: END MAP MSG : 2 FROM 96
+5.000320 #97: SEND END MAP INSTANT TO 43
+5.000320 #97: SEND ENDMAP : 43
+5.000320 #27: SEND END MAP INSTANT TO 43
+5.000320 #27: SEND ENDMAP : 43
+5.000320 #44:  recu : 43 MAP : -2,6,-2 FRAME 1
+5.000320 #79: SEND END MAP INSTANT TO 28
+5.000320 #79: SEND ENDMAP : 28
+5.000320 #13: SEND END MAP INSTANT TO 28
+5.000320 #13: SEND ENDMAP : 28
+5.000320 #29:  recu : 28 MAP : -1,7,-2 FRAME 1
+5.000320 #61: SEND END MAP INSTANT TO 14
+5.000320 #61: SEND ENDMAP : 14
+5.000320 #15:  recu : 14 MAP : 0,8,-2 FRAME 1
+5.000320 #99:  recu : 98 MAP : -2,7,-1 FRAME 1
+5.000320 #81:  recu : 80 MAP : -1,8,-1 FRAME 1
+5.000320 #63:  recu : 62 MAP : 0,9,-1 FRAME 1
+5.000320 #36: FRAME from 35 : -2,-3,-2!2
+5.000320 #42: END MAP MSG : 1 FROM 26
+5.000320 #97: END MAP MSG : 2 FROM 78
+5.000320 #27: END MAP MSG : 3 FROM 78
+5.000320 #44: SEND END MAP INSTANT TO 28
+5.000320 #44: SEND ENDMAP : 28
+5.000320 #79: SEND END MAP INSTANT TO 98
+5.000320 #79: SEND ENDMAP : 98
+5.000320 #13: END MAP MSG : 2 FROM 60
+5.000320 #29: SEND END MAP INSTANT TO 14
+5.000320 #29: SEND ENDMAP : 14
+5.000320 #61: SEND END MAP INSTANT TO 80
+5.000320 #61: SEND ENDMAP : 80
+5.000320 #15: SEND END MAP INSTANT TO 62
+5.000320 #15: SEND ENDMAP : 62
+5.000320 #99: SEND END MAP INSTANT TO 80
+5.000320 #99: SEND ENDMAP : 80
+5.000320 #81: SEND END MAP INSTANT TO 62
+5.000320 #81: SEND ENDMAP : 62
+5.000320 #27: END MAP MSG : 2 FROM 12
+5.000320 #44: SEND END MAP INSTANT TO 98
+5.000320 #44: SEND ENDMAP : 98
+5.000320 #79: END MAP MSG : 3 FROM 60
+5.000320 #29: SEND END MAP INSTANT TO 80
+5.000320 #29: SEND ENDMAP : 80
+5.000352 #97: END MAP MSG : 1 FROM 43
+5.000352 #27: END MAP MSG : 1 FROM 43
+5.000352 #79: END MAP MSG : 2 FROM 28
+5.000352 #13: END MAP MSG : 1 FROM 28
+5.000352 #61: END MAP MSG : 2 FROM 14
+5.000352 #36: END MAP MSG : 0 FROM 35
+5.000352 #36: DEBUG :37: END : 0 FRAME : 1
+5.000352 #36: DEBUG :37: END : 0 FRAME : 0
+5.000352 #36: SEND ENDMAP : 37
+5.000352 #79: END MAP MSG : 1 FROM 98
+5.000352 #61: END MAP MSG : 1 FROM 80
+5.000384 #91: FRAME from 90 : -2,-2,-1!2
+5.000384 #21: FRAME from 20 : -1,-2,-2!2
+5.000416 #91: FRAME from 89 : -2,-3,-1!3
+5.000416 #21: FRAME from 19 : -1,-3,-2!3
+5.000448 #91: END MAP MSG : 0 FROM 90
+5.000448 #91: DEBUG :92: END : 0 FRAME : 2
+5.000448 #91: DEBUG :92: END : 0 FRAME : 1
+5.000448 #91: DEBUG :92: END : 0 FRAME : 0
+5.000448 #91: SEND ENDMAP : 92
+5.000448 #21: END MAP MSG : 0 FROM 20
+5.000448 #21: DEBUG :22: END : 0 FRAME : 2
+5.000448 #21: DEBUG :22: END : 0 FRAME : 1
+5.000448 #21: DEBUG :22: END : 0 FRAME : 0
+5.000448 #21: SEND ENDMAP : 22
+5.000448 #7: FRAME from 6 : 0,-1,-2!2
+5.000448 #73: FRAME from 72 : -1,-1,-1!2
+5.000480 #7: FRAME from 5 : 0,-2,-2!3
+5.000480 #73: FRAME from 71 : -1,-2,-1!3
+5.000512 #7: FRAME from 4 : 0,-3,-2!4
+5.000512 #73: FRAME from 70 : -1,-3,-1!4
+5.000544 #7: END MAP MSG : 2 FROM 6
+5.000544 #73: END MAP MSG : 2 FROM 72
+5.500352 #43: END MAP MSG : 2 FROM 97
+5.500352 #98: SEND END MAP INSTANT TO 44
+5.500352 #98: SEND ENDMAP : 44
+5.500352 #28: SEND END MAP INSTANT TO 44
+5.500352 #28: SEND ENDMAP : 44
+5.500352 #45:  recu : 44 MAP : -2,7,-2 FRAME 1
+5.500352 #80: SEND END MAP INSTANT TO 29
+5.500352 #80: SEND ENDMAP : 29
+5.500352 #14: SEND END MAP INSTANT TO 29
+5.500352 #14: SEND ENDMAP : 29
+5.500352 #30:  recu : 29 MAP : -1,8,-2 FRAME 1
+5.500352 #62: SEND END MAP INSTANT TO 15
+5.500352 #62: SEND ENDMAP : 15
+5.500352 #16:  recu : 15 MAP : 0,9,-2 FRAME 1
+5.500352 #100:  recu : 99 MAP : -2,8,-1 FRAME 1
+5.500352 #82:  recu : 81 MAP : -1,9,-1 FRAME 1
+5.500352 #64:  recu : 63 MAP : 0,10,-1 FRAME 1
+5.500352 #43: END MAP MSG : 1 FROM 27
+5.500352 #98: END MAP MSG : 2 FROM 79
+5.500352 #28: END MAP MSG : 3 FROM 79
+5.500352 #45: SEND END MAP INSTANT TO 29
+5.500352 #45: SEND ENDMAP : 29
+5.500352 #80: SEND END MAP INSTANT TO 99
+5.500352 #80: SEND ENDMAP : 99
+5.500352 #14: END MAP MSG : 2 FROM 61
+5.500352 #30: SEND END MAP INSTANT TO 15
+5.500352 #30: SEND ENDMAP : 15
+5.500352 #62: SEND END MAP INSTANT TO 81
+5.500352 #62: SEND ENDMAP : 81
+5.500352 #16: SEND END MAP INSTANT TO 63
+5.500352 #16: SEND ENDMAP : 63
+5.500352 #100: SEND END MAP INSTANT TO 81
+5.500352 #100: SEND ENDMAP : 81
+5.500352 #82: SEND END MAP INSTANT TO 63
+5.500352 #82: SEND ENDMAP : 63
+5.500352 #28: END MAP MSG : 2 FROM 13
+5.500352 #45: SEND END MAP INSTANT TO 99
+5.500352 #45: SEND ENDMAP : 99
+5.500352 #80: END MAP MSG : 3 FROM 61
+5.500352 #30: SEND END MAP INSTANT TO 81
+5.500352 #30: SEND ENDMAP : 81
+5.500384 #98: END MAP MSG : 1 FROM 44
+5.500384 #28: END MAP MSG : 1 FROM 44
+5.500384 #80: END MAP MSG : 2 FROM 29
+5.500384 #14: END MAP MSG : 1 FROM 29
+5.500384 #62: END MAP MSG : 2 FROM 15
+5.500384 #37: FRAME from 36 : -2,-2,-2!2
+5.500384 #80: END MAP MSG : 1 FROM 99
+5.500384 #62: END MAP MSG : 1 FROM 81
+5.500416 #37: FRAME from 35 : -2,-3,-2!3
+5.500448 #37: END MAP MSG : 0 FROM 36
+5.500448 #37: DEBUG :38: END : 0 FRAME : 2
+5.500448 #37: DEBUG :38: END : 0 FRAME : 1
+5.500448 #37: DEBUG :38: END : 0 FRAME : 0
+5.500448 #37: SEND ENDMAP : 38
+5.500480 #92: FRAME from 91 : -2,-1,-1!2
+5.500480 #22: FRAME from 21 : -1,-1,-2!2
+5.500512 #92: FRAME from 90 : -2,-2,-1!3
+5.500512 #22: FRAME from 20 : -1,-2,-2!3
+5.500544 #92: FRAME from 89 : -2,-3,-1!4
+5.500544 #22: FRAME from 19 : -1,-3,-2!4
+5.500576 #92: END MAP MSG : 1 FROM 91
+5.500576 #22: END MAP MSG : 2 FROM 21
+6.000384 #44: END MAP MSG : 2 FROM 98
+6.000384 #99: SEND END MAP INSTANT TO 45
+6.000384 #99: SEND ENDMAP : 45
+6.000384 #29: SEND END MAP INSTANT TO 45
+6.000384 #29: SEND ENDMAP : 45
+6.000384 #46:  recu : 45 MAP : -2,8,-2 FRAME 1
+6.000384 #81: SEND END MAP INSTANT TO 30
+6.000384 #81: SEND ENDMAP : 30
+6.000384 #15: SEND END MAP INSTANT TO 30
+6.000384 #15: SEND ENDMAP : 30
+6.000384 #31:  recu : 30 MAP : -1,9,-2 FRAME 1
+6.000384 #63: SEND END MAP INSTANT TO 16
+6.000384 #63: SEND ENDMAP : 16
+6.000384 #17:  recu : 16 MAP : 0,10,-2 FRAME 1
+6.000384 #101:  recu : 100 MAP : -2,9,-1 FRAME 1
+6.000384 #83:  recu : 82 MAP : -1,10,-1 FRAME 1
+6.000384 #65:  recu : 64 MAP : 0,11,-1 FRAME 1
+6.000384 #44: END MAP MSG : 1 FROM 28
+6.000384 #99: END MAP MSG : 2 FROM 80
+6.000384 #29: END MAP MSG : 3 FROM 80
+6.000384 #46: SEND END MAP INSTANT TO 30
+6.000384 #46: SEND ENDMAP : 30
+6.000384 #81: SEND END MAP INSTANT TO 100
+6.000384 #81: SEND ENDMAP : 100
+6.000384 #15: END MAP MSG : 2 FROM 62
+6.000384 #31: SEND END MAP INSTANT TO 16
+6.000384 #31: SEND ENDMAP : 16
+6.000384 #63: SEND END MAP INSTANT TO 82
+6.000384 #63: SEND ENDMAP : 82
+6.000384 #17: SEND END MAP INSTANT TO 64
+6.000384 #17: SEND ENDMAP : 64
+6.000384 #101: SEND END MAP INSTANT TO 82
+6.000384 #101: SEND ENDMAP : 82
+6.000384 #83: SEND END MAP INSTANT TO 64
+6.000384 #83: SEND ENDMAP : 64
+6.000384 #29: END MAP MSG : 2 FROM 14
+6.000384 #46: SEND END MAP INSTANT TO 100
+6.000384 #46: SEND ENDMAP : 100
+6.000384 #81: END MAP MSG : 3 FROM 62
+6.000384 #31: SEND END MAP INSTANT TO 82
+6.000384 #31: SEND ENDMAP : 82
+6.000416 #99: END MAP MSG : 1 FROM 45
+6.000416 #29: END MAP MSG : 1 FROM 45
+6.000416 #81: END MAP MSG : 2 FROM 30
+6.000416 #15: END MAP MSG : 1 FROM 30
+6.000416 #63: END MAP MSG : 2 FROM 16
+6.000416 #81: END MAP MSG : 1 FROM 100
+6.000416 #63: END MAP MSG : 1 FROM 82
+6.000480 #38: FRAME from 37 : -2,-1,-2!2
+6.000512 #38: FRAME from 36 : -2,-2,-2!3
+6.000544 #38: FRAME from 35 : -2,-3,-2!4
+6.000576 #38: END MAP MSG : 1 FROM 37
+6.500416 #45: END MAP MSG : 2 FROM 99
+6.500416 #100: SEND END MAP INSTANT TO 46
+6.500416 #100: SEND ENDMAP : 46
+6.500416 #30: SEND END MAP INSTANT TO 46
+6.500416 #30: SEND ENDMAP : 46
+6.500416 #47:  recu : 46 MAP : -2,9,-2 FRAME 1
+6.500416 #82: SEND END MAP INSTANT TO 31
+6.500416 #82: SEND ENDMAP : 31
+6.500416 #16: SEND END MAP INSTANT TO 31
+6.500416 #16: SEND ENDMAP : 31
+6.500416 #32:  recu : 31 MAP : -1,10,-2 FRAME 1
+6.500416 #64: SEND END MAP INSTANT TO 17
+6.500416 #64: SEND ENDMAP : 17
+6.500416 #18:  recu : 17 MAP : 0,11,-2 FRAME 1
+6.500416 #102:  recu : 101 MAP : -2,10,-1 FRAME 1
+6.500416 #84:  recu : 83 MAP : -1,11,-1 FRAME 1
+6.500416 #66:  recu : 65 MAP : 0,12,-1 FRAME 1
+6.500416 #45: END MAP MSG : 1 FROM 29
+6.500416 #100: END MAP MSG : 2 FROM 81
+6.500416 #30: END MAP MSG : 3 FROM 81
+6.500416 #47: SEND END MAP INSTANT TO 31
+6.500416 #47: SEND ENDMAP : 31
+6.500416 #82: SEND END MAP INSTANT TO 101
+6.500416 #82: SEND ENDMAP : 101
+6.500416 #16: END MAP MSG : 2 FROM 63
+6.500416 #32: SEND END MAP INSTANT TO 17
+6.500416 #32: SEND ENDMAP : 17
+6.500416 #64: SEND END MAP INSTANT TO 83
+6.500416 #64: SEND ENDMAP : 83
+6.500416 #18: SEND END MAP INSTANT TO 65
+6.500416 #18: SEND ENDMAP : 65
+6.500416 #102: SEND END MAP INSTANT TO 83
+6.500416 #102: SEND ENDMAP : 83
+6.500416 #84: SEND END MAP INSTANT TO 65
+6.500416 #84: SEND ENDMAP : 65
+6.500416 #30: END MAP MSG : 2 FROM 15
+6.500416 #47: SEND END MAP INSTANT TO 101
+6.500416 #47: SEND ENDMAP : 101
+6.500416 #82: END MAP MSG : 3 FROM 63
+6.500416 #32: SEND END MAP INSTANT TO 83
+6.500416 #32: SEND ENDMAP : 83
+6.500448 #100: END MAP MSG : 1 FROM 46
+6.500448 #30: END MAP MSG : 1 FROM 46
+6.500448 #82: END MAP MSG : 2 FROM 31
+6.500448 #16: END MAP MSG : 1 FROM 31
+6.500448 #64: END MAP MSG : 2 FROM 17
+6.500448 #82: END MAP MSG : 1 FROM 101
+6.500448 #64: END MAP MSG : 1 FROM 83
+7.000448 #46: END MAP MSG : 2 FROM 100
+7.000448 #101: SEND END MAP INSTANT TO 47
+7.000448 #101: SEND ENDMAP : 47
+7.000448 #31: SEND END MAP INSTANT TO 47
+7.000448 #31: SEND ENDMAP : 47
+7.000448 #48:  recu : 47 MAP : -2,10,-2 FRAME 1
+7.000448 #83: SEND END MAP INSTANT TO 32
+7.000448 #83: SEND ENDMAP : 32
+7.000448 #17: SEND END MAP INSTANT TO 32
+7.000448 #17: SEND ENDMAP : 32
+7.000448 #33:  recu : 32 MAP : -1,11,-2 FRAME 1
+7.000448 #65: SEND END MAP INSTANT TO 18
+7.000448 #65: SEND ENDMAP : 18
+7.000448 #103:  recu : 102 MAP : -2,11,-1 FRAME 1
+7.000448 #85:  recu : 84 MAP : -1,12,-1 FRAME 1
+7.000448 #67:  recu : 66 MAP : 0,13,-1 FRAME 1
+7.000448 #46: END MAP MSG : 1 FROM 30
+7.000448 #101: END MAP MSG : 2 FROM 82
+7.000448 #31: END MAP MSG : 3 FROM 82
+7.000448 #48: SEND END MAP INSTANT TO 32
+7.000448 #48: SEND ENDMAP : 32
+7.000448 #83: SEND END MAP INSTANT TO 102
+7.000448 #83: SEND ENDMAP : 102
+7.000448 #17: END MAP MSG : 2 FROM 64
+7.000448 #33: SEND END MAP INSTANT TO 18
+7.000448 #33: SEND ENDMAP : 18
+7.000448 #65: SEND END MAP INSTANT TO 84
+7.000448 #65: SEND ENDMAP : 84
+7.000448 #103: SEND END MAP INSTANT TO 84
+7.000448 #103: SEND ENDMAP : 84
+7.000448 #85: SEND END MAP INSTANT TO 66
+7.000448 #85: SEND ENDMAP : 66
+7.000448 #31: END MAP MSG : 2 FROM 16
+7.000448 #48: SEND END MAP INSTANT TO 102
+7.000448 #48: SEND ENDMAP : 102
+7.000448 #83: END MAP MSG : 3 FROM 64
+7.000448 #33: SEND END MAP INSTANT TO 84
+7.000448 #33: SEND ENDMAP : 84
+7.000480 #101: END MAP MSG : 1 FROM 47
+7.000480 #31: END MAP MSG : 1 FROM 47
+7.000480 #83: END MAP MSG : 2 FROM 32
+7.000480 #17: END MAP MSG : 1 FROM 32
+7.000480 #65: END MAP MSG : 2 FROM 18
+7.000480 #83: END MAP MSG : 1 FROM 102
+7.000480 #65: END MAP MSG : 1 FROM 84
+7.500480 #47: END MAP MSG : 2 FROM 101
+7.500480 #102: SEND END MAP INSTANT TO 48
+7.500480 #102: SEND ENDMAP : 48
+7.500480 #32: SEND END MAP INSTANT TO 48
+7.500480 #32: SEND ENDMAP : 48
+7.500480 #49:  recu : 48 MAP : -2,11,-2 FRAME 1
+7.500480 #84: SEND END MAP INSTANT TO 33
+7.500480 #84: SEND ENDMAP : 33
+7.500480 #18: SEND END MAP INSTANT TO 33
+7.500480 #18: SEND ENDMAP : 33
+7.500480 #104:  recu : 103 MAP : -2,12,-1 FRAME 1
+7.500480 #66: SEND END MAP INSTANT TO 85
+7.500480 #66: SEND ENDMAP : 85
+7.500480 #86:  recu : 85 MAP : -1,13,-1 FRAME 1
+7.500480 #68:  recu : 67 MAP : 0,14,-1 FRAME 1
+7.500480 #47: END MAP MSG : 1 FROM 31
+7.500480 #102: END MAP MSG : 2 FROM 83
+7.500480 #32: END MAP MSG : 3 FROM 83
+7.500480 #49: SEND END MAP INSTANT TO 33
+7.500480 #49: SEND ENDMAP : 33
+7.500480 #84: SEND END MAP INSTANT TO 103
+7.500480 #84: SEND ENDMAP : 103
+7.500480 #18: END MAP MSG : 1 FROM 65
+7.500480 #104: SEND END MAP INSTANT TO 85
+7.500480 #104: SEND ENDMAP : 85
+7.500480 #86: SEND END MAP INSTANT TO 67
+7.500480 #86: SEND ENDMAP : 67
+7.500480 #32: END MAP MSG : 2 FROM 17
+7.500480 #49: SEND END MAP INSTANT TO 103
+7.500480 #49: SEND ENDMAP : 103
+7.500480 #84: END MAP MSG : 3 FROM 65
+7.500512 #102: END MAP MSG : 1 FROM 48
+7.500512 #32: END MAP MSG : 1 FROM 48
+7.500512 #84: END MAP MSG : 2 FROM 33
+7.500512 #18: END MAP MSG : 0 FROM 33
+7.500512 #18: DEBUG :17: END : 0 FRAME : 0
+7.500512 #18: SEND ENDMAP : 17
+7.500512 #66: END MAP MSG : 1 FROM 85
+7.500512 #84: END MAP MSG : 1 FROM 103
+8.000512 #48: END MAP MSG : 2 FROM 102
+8.000512 #103: SEND END MAP INSTANT TO 49
+8.000512 #103: SEND ENDMAP : 49
+8.000512 #33: SEND END MAP INSTANT TO 49
+8.000512 #33: SEND ENDMAP : 49
+8.000512 #85: SEND END MAP INSTANT TO 104
+8.000512 #85: SEND ENDMAP : 104
+8.000512 #105:  recu : 104 MAP : -2,13,-1 FRAME 1
+8.000512 #67: SEND END MAP INSTANT TO 86
+8.000512 #67: SEND ENDMAP : 86
+8.000512 #87:  recu : 86 MAP : -1,14,-1 FRAME 1
+8.000512 #69:  recu : 68 MAP : 0,15,-1 FRAME 1
+8.000512 #48: END MAP MSG : 1 FROM 32
+8.000512 #103: END MAP MSG : 2 FROM 84
+8.000512 #33: END MAP MSG : 2 FROM 84
+8.000512 #85: END MAP MSG : 2 FROM 66
+8.000512 #105: SEND END MAP INSTANT TO 86
+8.000512 #105: SEND ENDMAP : 86
+8.000512 #87: SEND END MAP INSTANT TO 68
+8.000512 #87: SEND ENDMAP : 68
+8.000512 #33: END MAP MSG : 1 FROM 18
+8.000544 #103: END MAP MSG : 1 FROM 49
+8.000544 #33: END MAP MSG : 0 FROM 49
+8.000544 #33: DEBUG :32: END : 0 FRAME : 0
+8.000544 #33: SEND ENDMAP : 32
+8.000544 #85: END MAP MSG : 1 FROM 104
+8.000544 #67: END MAP MSG : 1 FROM 86
+8.000544 #17: FRAME from 18 : 0,11,-2!2
+8.000576 #17: END MAP MSG : 0 FROM 18
+8.000576 #17: DEBUG :16: END : 0 FRAME : 1
+8.000576 #17: DEBUG :16: END : 0 FRAME : 0
+8.000576 #17: SEND ENDMAP : 16
+8.500544 #49: END MAP MSG : 1 FROM 103
+8.500544 #104: END MAP MSG : 1 FROM 85
+8.500544 #86: SEND END MAP INSTANT TO 105
+8.500544 #86: SEND ENDMAP : 105
+8.500544 #106:  recu : 105 MAP : -2,14,-1 FRAME 1
+8.500544 #68: SEND END MAP INSTANT TO 87
+8.500544 #68: SEND ENDMAP : 87
+8.500544 #88:  recu : 87 MAP : -1,15,-1 FRAME 1
+8.500544 #49: END MAP MSG : 0 FROM 33
+8.500544 #49: DEBUG :48: END : 0 FRAME : 0
+8.500544 #49: SEND ENDMAP : 48
+8.500544 #86: END MAP MSG : 2 FROM 67
+8.500544 #106: SEND END MAP INSTANT TO 87
+8.500544 #106: SEND ENDMAP : 87
+8.500544 #88: SEND END MAP INSTANT TO 69
+8.500544 #88: SEND ENDMAP : 69
+8.500576 #86: END MAP MSG : 1 FROM 105
+8.500576 #68: END MAP MSG : 1 FROM 87
+8.500576 #32: FRAME from 33 : -1,11,-2!2
+8.500608 #32: END MAP MSG : 0 FROM 33
+8.500608 #32: DEBUG :31: END : 0 FRAME : 1
+8.500608 #32: DEBUG :31: END : 0 FRAME : 0
+8.500608 #32: SEND ENDMAP : 31
+8.500608 #16: FRAME from 17 : 0,10,-2!2
+8.500640 #16: FRAME from 18 : 0,11,-2!3
+8.500672 #16: END MAP MSG : 0 FROM 17
+8.500672 #16: DEBUG :15: END : 0 FRAME : 2
+8.500672 #16: DEBUG :15: END : 0 FRAME : 1
+8.500672 #16: DEBUG :15: END : 0 FRAME : 0
+8.500672 #16: SEND ENDMAP : 15
+9.000576 #105: END MAP MSG : 1 FROM 86
+9.000576 #87: SEND END MAP INSTANT TO 106
+9.000576 #87: SEND ENDMAP : 106
+9.000576 #34:  recu : 88 MAP : -1,15,-2 FRAME 1
+9.000576 #69: SEND END MAP INSTANT TO 88
+9.000576 #69: SEND ENDMAP : 88
+9.000576 #48: FRAME from 49 : -2,11,-2!2
+9.000576 #87: END MAP MSG : 2 FROM 68
+9.000608 #87: END MAP MSG : 1 FROM 106
+9.000608 #69: END MAP MSG : 0 FROM 88
+9.000608 #69: DEBUG :68: END : 0 FRAME : 0
+9.000608 #69: SEND ENDMAP : 68
+9.000608 #48: END MAP MSG : 0 FROM 49
+9.000608 #48: DEBUG :47: END : 0 FRAME : 1
+9.000608 #48: DEBUG :47: END : 0 FRAME : 0
+9.000608 #48: SEND ENDMAP : 47
+9.000640 #31: FRAME from 32 : -1,10,-2!2
+9.000672 #31: FRAME from 33 : -1,11,-2!3
+9.000704 #31: END MAP MSG : 0 FROM 32
+9.000704 #31: DEBUG :30: END : 0 FRAME : 2
+9.000704 #31: DEBUG :30: END : 0 FRAME : 1
+9.000704 #31: DEBUG :30: END : 0 FRAME : 0
+9.000704 #31: SEND ENDMAP : 30
+9.000704 #15: FRAME from 16 : 0,9,-2!2
+9.000736 #15: FRAME from 17 : 0,10,-2!3
+9.000768 #15: FRAME from 18 : 0,11,-2!4
+9.000800 #15: END MAP MSG : 0 FROM 16
+9.000800 #15: DEBUG :14: END : 0 FRAME : 3
+9.000800 #15: DEBUG :14: END : 0 FRAME : 2
+9.000800 #15: DEBUG :14: END : 0 FRAME : 1
+9.000800 #15: DEBUG :14: END : 0 FRAME : 0
+9.000800 #15: SEND ENDMAP : 14
+9.500608 #106: END MAP MSG : 0 FROM 87
+9.500608 #106: DEBUG :105: END : 0 FRAME : 0
+9.500608 #106: SEND ENDMAP : 105
+9.500608 #50:  recu : 34 MAP : -2,15,-2 FRAME 1
+9.500608 #50: DEBUG :34: END : 0 FRAME : 0
+9.500608 #50: SEND ENDMAP : 34
+9.500608 #88: END MAP MSG : 1 FROM 69
+9.500640 #68: FRAME from 69 : 0,15,-1!2
+9.500640 #47: FRAME from 48 : -2,10,-2!2
+9.500672 #68: END MAP MSG : 0 FROM 69
+9.500672 #68: DEBUG :67: END : 0 FRAME : 1
+9.500672 #68: DEBUG :67: END : 0 FRAME : 0
+9.500672 #68: SEND ENDMAP : 67
+9.500672 #47: FRAME from 49 : -2,11,-2!3
+9.500704 #47: END MAP MSG : 0 FROM 48
+9.500704 #47: DEBUG :46: END : 0 FRAME : 2
+9.500704 #47: DEBUG :46: END : 0 FRAME : 1
+9.500704 #47: DEBUG :46: END : 0 FRAME : 0
+9.500704 #47: SEND ENDMAP : 46
+9.500736 #30: FRAME from 31 : -1,9,-2!2
+9.500768 #30: FRAME from 32 : -1,10,-2!3
+9.500800 #30: FRAME from 33 : -1,11,-2!4
+9.500832 #30: END MAP MSG : 0 FROM 31
+9.500832 #30: DEBUG :29: END : 0 FRAME : 3
+9.500832 #30: DEBUG :29: END : 0 FRAME : 2
+9.500832 #30: DEBUG :29: END : 0 FRAME : 1
+9.500832 #30: DEBUG :29: END : 0 FRAME : 0
+9.500832 #30: SEND ENDMAP : 29
+9.500832 #14: FRAME from 15 : 0,8,-2!2
+9.500864 #14: FRAME from 16 : 0,9,-2!3
+9.500896 #14: FRAME from 17 : 0,10,-2!4
+9.500928 #14: FRAME from 18 : 0,11,-2!5
+9.500960 #14: END MAP MSG : 0 FROM 15
+9.500960 #14: DEBUG :13: END : 0 FRAME : 4
+9.500960 #14: DEBUG :13: END : 0 FRAME : 3
+9.500960 #14: DEBUG :13: END : 0 FRAME : 2
+9.500960 #14: DEBUG :13: END : 0 FRAME : 1
+9.500960 #14: DEBUG :13: END : 0 FRAME : 0
+9.500960 #14: SEND ENDMAP : 13
+10.000640 #105: FRAME from 106 : -2,14,-1!2
+10.000640 #34: FRAME from 50 : -2,15,-2!2
+10.000672 #105: END MAP MSG : 0 FROM 106
+10.000672 #105: DEBUG :104: END : 0 FRAME : 1
+10.000672 #105: DEBUG :104: END : 0 FRAME : 0
+10.000672 #105: SEND ENDMAP : 104
+10.000672 #34: END MAP MSG : 0 FROM 50
+10.000672 #34: DEBUG :88: END : 0 FRAME : 1
+10.000672 #34: DEBUG :88: END : 0 FRAME : 0
+10.000672 #34: SEND ENDMAP : 88
+10.000704 #67: FRAME from 68 : 0,14,-1!2
+10.000736 #67: FRAME from 69 : 0,15,-1!3
+10.000736 #46: FRAME from 47 : -2,9,-2!2
+10.000768 #67: END MAP MSG : 0 FROM 68
+10.000768 #67: DEBUG :66: END : 0 FRAME : 2
+10.000768 #67: DEBUG :66: END : 0 FRAME : 1
+10.000768 #67: DEBUG :66: END : 0 FRAME : 0
+10.000768 #67: SEND ENDMAP : 66
+10.000768 #46: FRAME from 48 : -2,10,-2!3
+10.000800 #46: FRAME from 49 : -2,11,-2!4
+10.000832 #46: END MAP MSG : 0 FROM 47
+10.000832 #46: DEBUG :45: END : 0 FRAME : 3
+10.000832 #46: DEBUG :45: END : 0 FRAME : 2
+10.000832 #46: DEBUG :45: END : 0 FRAME : 1
+10.000832 #46: DEBUG :45: END : 0 FRAME : 0
+10.000832 #46: SEND ENDMAP : 45
+10.000864 #29: FRAME from 30 : -1,8,-2!2
+10.000896 #29: FRAME from 31 : -1,9,-2!3
+10.000928 #29: FRAME from 32 : -1,10,-2!4
+10.000960 #29: FRAME from 33 : -1,11,-2!5
+10.000992 #29: END MAP MSG : 0 FROM 30
+10.000992 #29: DEBUG :28: END : 0 FRAME : 4
+10.000992 #29: DEBUG :28: END : 0 FRAME : 3
+10.000992 #29: DEBUG :28: END : 0 FRAME : 2
+10.000992 #29: DEBUG :28: END : 0 FRAME : 1
+10.000992 #29: DEBUG :28: END : 0 FRAME : 0
+10.000992 #29: SEND ENDMAP : 28
+10.000992 #13: FRAME from 14 : 0,7,-2!2
+10.001024 #13: FRAME from 15 : 0,8,-2!3
+10.001056 #13: FRAME from 16 : 0,9,-2!4
+10.001088 #13: FRAME from 17 : 0,10,-2!5
+10.001120 #13: FRAME from 18 : 0,11,-2!5
+10.001152 #13: END MAP MSG : 0 FROM 14
+10.001152 #13: DEBUG :12: END : 0 FRAME : 4
+10.001152 #13: DEBUG :12: END : 0 FRAME : 3
+10.001152 #13: DEBUG :12: END : 0 FRAME : 2
+10.001152 #13: DEBUG :12: END : 0 FRAME : 1
+10.001152 #13: DEBUG :12: END : 0 FRAME : 0
+10.001152 #13: SEND ENDMAP : 12
+10.500704 #104: FRAME from 105 : -2,13,-1!2
+10.500704 #88: FRAME from 34 : -1,15,-2!2
+10.500736 #104: FRAME from 106 : -2,14,-1!3
+10.500736 #88: FRAME from 50 : -2,15,-2!3
+10.500768 #104: END MAP MSG : 0 FROM 105
+10.500768 #104: DEBUG :103: END : 0 FRAME : 2
+10.500768 #104: DEBUG :103: END : 0 FRAME : 1
+10.500768 #104: DEBUG :103: END : 0 FRAME : 0
+10.500768 #104: SEND ENDMAP : 103
+10.500768 #88: END MAP MSG : 0 FROM 34
+10.500768 #88: DEBUG :87: END : 0 FRAME : 2
+10.500768 #88: DEBUG :87: END : 0 FRAME : 1
+10.500768 #88: DEBUG :87: END : 0 FRAME : 0
+10.500768 #88: SEND ENDMAP : 87
+10.500800 #66: FRAME from 67 : 0,13,-1!2
+10.500832 #66: FRAME from 68 : 0,14,-1!3
+10.500864 #66: FRAME from 69 : 0,15,-1!4
+10.500864 #45: FRAME from 46 : -2,8,-2!2
+10.500896 #66: END MAP MSG : 0 FROM 67
+10.500896 #66: DEBUG :65: END : 0 FRAME : 3
+10.500896 #66: DEBUG :65: END : 0 FRAME : 2
+10.500896 #66: DEBUG :65: END : 0 FRAME : 1
+10.500896 #66: DEBUG :65: END : 0 FRAME : 0
+10.500896 #66: SEND ENDMAP : 65
+10.500896 #45: FRAME from 47 : -2,9,-2!3
+10.500928 #45: FRAME from 48 : -2,10,-2!4
+10.500960 #45: FRAME from 49 : -2,11,-2!5
+10.500992 #45: END MAP MSG : 0 FROM 46
+10.500992 #45: DEBUG :44: END : 0 FRAME : 4
+10.500992 #45: DEBUG :44: END : 0 FRAME : 3
+10.500992 #45: DEBUG :44: END : 0 FRAME : 2
+10.500992 #45: DEBUG :44: END : 0 FRAME : 1
+10.500992 #45: DEBUG :44: END : 0 FRAME : 0
+10.500992 #45: SEND ENDMAP : 44
+10.501024 #28: FRAME from 29 : -1,7,-2!2
+10.501056 #28: FRAME from 30 : -1,8,-2!3
+10.501088 #28: FRAME from 31 : -1,9,-2!4
+10.501120 #28: FRAME from 32 : -1,10,-2!5
+10.501152 #28: FRAME from 33 : -1,11,-2!5
+10.501152 #14: WAIT BUFFER BY 13
+10.501184 #28: END MAP MSG : 0 FROM 29
+10.501184 #28: DEBUG :27: END : 0 FRAME : 4
+10.501184 #28: DEBUG :27: END : 0 FRAME : 3
+10.501184 #28: DEBUG :27: END : 0 FRAME : 2
+10.501184 #28: DEBUG :27: END : 0 FRAME : 1
+10.501184 #28: DEBUG :27: END : 0 FRAME : 0
+10.501184 #28: SEND ENDMAP : 27
+10.501184 #12: FRAME from 13 : 0,6,-2!2
+10.501216 #12: FRAME from 14 : 0,7,-2!3
+10.501248 #12: FRAME from 15 : 0,8,-2!4
+10.501280 #12: FRAME from 16 : 0,9,-2!5
+10.501312 #12: FRAME from 17 : 0,10,-2!5
+10.501344 #12: END MAP MSG : 0 FROM 13
+10.501344 #12: DEBUG :11: END : 0 FRAME : 4
+10.501344 #12: DEBUG :11: END : 0 FRAME : 3
+10.501344 #12: DEBUG :11: END : 0 FRAME : 2
+10.501344 #12: DEBUG :11: END : 0 FRAME : 1
+10.501344 #12: DEBUG :11: END : 0 FRAME : 0
+10.501344 #12: SEND ENDMAP : 11
+11.000800 #103: FRAME from 104 : -2,12,-1!2
+11.000800 #87: FRAME from 88 : -1,15,-1!2
+11.000832 #103: FRAME from 105 : -2,13,-1!3
+11.000832 #87: FRAME from 34 : -1,15,-2!3
+11.000864 #103: FRAME from 106 : -2,14,-1!4
+11.000864 #87: FRAME from 50 : -2,15,-2!4
+11.000896 #103: END MAP MSG : 0 FROM 104
+11.000896 #103: DEBUG :102: END : 0 FRAME : 3
+11.000896 #103: DEBUG :102: END : 0 FRAME : 2
+11.000896 #103: DEBUG :102: END : 0 FRAME : 1
+11.000896 #103: DEBUG :102: END : 0 FRAME : 0
+11.000896 #103: SEND ENDMAP : 102
+11.000896 #87: END MAP MSG : 0 FROM 88
+11.000896 #87: DEBUG :86: END : 0 FRAME : 3
+11.000896 #87: DEBUG :86: END : 0 FRAME : 2
+11.000896 #87: DEBUG :86: END : 0 FRAME : 1
+11.000896 #87: DEBUG :86: END : 0 FRAME : 0
+11.000896 #87: SEND ENDMAP : 86
+11.000928 #65: FRAME from 66 : 0,12,-1!2
+11.000960 #65: FRAME from 67 : 0,13,-1!3
+11.000992 #65: FRAME from 68 : 0,14,-1!4
+11.001024 #65: FRAME from 69 : 0,15,-1!5
+11.001024 #44: FRAME from 45 : -2,7,-2!2
+11.001056 #65: END MAP MSG : 0 FROM 66
+11.001056 #65: DEBUG :64: END : 0 FRAME : 4
+11.001056 #65: DEBUG :64: END : 0 FRAME : 3
+11.001056 #65: DEBUG :64: END : 0 FRAME : 2
+11.001056 #65: DEBUG :64: END : 0 FRAME : 1
+11.001056 #65: DEBUG :64: END : 0 FRAME : 0
+11.001056 #65: SEND ENDMAP : 64
+11.001056 #44: FRAME from 46 : -2,8,-2!3
+11.001088 #44: FRAME from 47 : -2,9,-2!4
+11.001120 #44: FRAME from 48 : -2,10,-2!5
+11.001152 #44: FRAME from 49 : -2,11,-2!5
+11.001184 #44: END MAP MSG : 0 FROM 45
+11.001184 #44: DEBUG :43: END : 0 FRAME : 4
+11.001184 #44: DEBUG :43: END : 0 FRAME : 3
+11.001184 #44: DEBUG :43: END : 0 FRAME : 2
+11.001184 #44: DEBUG :43: END : 0 FRAME : 1
+11.001184 #44: DEBUG :43: END : 0 FRAME : 0
+11.001184 #44: SEND ENDMAP : 43
+11.001184 #29: WAIT BUFFER BY 28
+11.001216 #27: FRAME from 28 : -1,6,-2!2
+11.001248 #27: FRAME from 29 : -1,7,-2!3
+11.001280 #27: FRAME from 30 : -1,8,-2!4
+11.001312 #27: FRAME from 31 : -1,9,-2!5
+11.001344 #27: FRAME from 32 : -1,10,-2!5
+11.001344 #13: WAIT BUFFER BY 12
+11.001376 #27: END MAP MSG : 0 FROM 28
+11.001376 #27: DEBUG :26: END : 0 FRAME : 4
+11.001376 #27: DEBUG :26: END : 0 FRAME : 3
+11.001376 #27: DEBUG :26: END : 0 FRAME : 2
+11.001376 #27: DEBUG :26: END : 0 FRAME : 1
+11.001376 #27: DEBUG :26: END : 0 FRAME : 0
+11.001376 #27: SEND ENDMAP : 26
+11.001376 #11: FRAME from 12 : 0,5,-2!2
+11.001408 #11: FRAME from 13 : 0,6,-2!3
+11.001440 #11: FRAME from 14 : 0,7,-2!4
+11.001472 #11: FRAME from 15 : 0,8,-2!5
+11.001504 #11: FRAME from 16 : 0,9,-2!5
+11.001536 #11: END MAP MSG : 0 FROM 12
+11.001536 #11: DEBUG :10: END : 0 FRAME : 4
+11.001536 #11: DEBUG :10: END : 0 FRAME : 3
+11.001536 #11: DEBUG :10: END : 0 FRAME : 2
+11.001536 #11: DEBUG :10: END : 0 FRAME : 1
+11.001536 #11: DEBUG :10: END : 0 FRAME : 0
+11.001536 #11: SEND ENDMAP : 10
+11.500928 #102: FRAME from 103 : -2,11,-1!2
+11.500928 #86: FRAME from 87 : -1,14,-1!2
+11.500960 #102: FRAME from 104 : -2,12,-1!3
+11.500960 #86: FRAME from 88 : -1,15,-1!3
+11.500992 #102: FRAME from 105 : -2,13,-1!4
+11.500992 #86: FRAME from 34 : -1,15,-2!4
+11.501024 #102: FRAME from 106 : -2,14,-1!5
+11.501024 #86: FRAME from 50 : -2,15,-2!5
+11.501056 #102: END MAP MSG : 0 FROM 103
+11.501056 #102: DEBUG :101: END : 0 FRAME : 4
+11.501056 #102: DEBUG :101: END : 0 FRAME : 3
+11.501056 #102: DEBUG :101: END : 0 FRAME : 2
+11.501056 #102: DEBUG :101: END : 0 FRAME : 1
+11.501056 #102: DEBUG :101: END : 0 FRAME : 0
+11.501056 #102: SEND ENDMAP : 101
+11.501056 #86: END MAP MSG : 0 FROM 87
+11.501056 #86: DEBUG :85: END : 0 FRAME : 4
+11.501056 #86: DEBUG :85: END : 0 FRAME : 3
+11.501056 #86: DEBUG :85: END : 0 FRAME : 2
+11.501056 #86: DEBUG :85: END : 0 FRAME : 1
+11.501056 #86: DEBUG :85: END : 0 FRAME : 0
+11.501056 #86: SEND ENDMAP : 85
+11.501088 #64: FRAME from 65 : 0,11,-1!2
+11.501120 #64: FRAME from 66 : 0,12,-1!3
+11.501152 #64: FRAME from 67 : 0,13,-1!4
+11.501184 #64: FRAME from 68 : 0,14,-1!5
+11.501184 #45: WAIT BUFFER BY 44
+11.501216 #64: FRAME from 69 : 0,15,-1!5
+11.501216 #43: FRAME from 44 : -2,6,-2!2
+11.501248 #64: END MAP MSG : 0 FROM 65
+11.501248 #64: DEBUG :63: END : 0 FRAME : 4
+11.501248 #64: DEBUG :63: END : 0 FRAME : 3
+11.501248 #64: DEBUG :63: END : 0 FRAME : 2
+11.501248 #64: DEBUG :63: END : 0 FRAME : 1
+11.501248 #64: DEBUG :63: END : 0 FRAME : 0
+11.501248 #64: SEND ENDMAP : 63
+11.501248 #43: FRAME from 45 : -2,7,-2!3
+11.501280 #43: FRAME from 46 : -2,8,-2!4
+11.501312 #43: FRAME from 47 : -2,9,-2!5
+11.501344 #43: FRAME from 48 : -2,10,-2!5
+11.501376 #43: END MAP MSG : 0 FROM 44
+11.501376 #43: DEBUG :42: END : 0 FRAME : 4
+11.501376 #43: DEBUG :42: END : 0 FRAME : 3
+11.501376 #43: DEBUG :42: END : 0 FRAME : 2
+11.501376 #43: DEBUG :42: END : 0 FRAME : 1
+11.501376 #43: DEBUG :42: END : 0 FRAME : 0
+11.501376 #43: SEND ENDMAP : 42
+11.501376 #28: WAIT BUFFER BY 27
+11.501408 #26: FRAME from 27 : -1,5,-2!2
+11.501440 #26: FRAME from 28 : -1,6,-2!3
+11.501472 #26: FRAME from 29 : -1,7,-2!4
+11.501504 #26: FRAME from 30 : -1,8,-2!5
+11.501536 #26: FRAME from 31 : -1,9,-2!5
+11.501536 #12: WAIT BUFFER BY 11
+11.501568 #26: END MAP MSG : 0 FROM 27
+11.501568 #26: DEBUG :25: END : 0 FRAME : 4
+11.501568 #26: DEBUG :25: END : 0 FRAME : 3
+11.501568 #26: DEBUG :25: END : 0 FRAME : 2
+11.501568 #26: DEBUG :25: END : 0 FRAME : 1
+11.501568 #26: DEBUG :25: END : 0 FRAME : 0
+11.501568 #26: SEND ENDMAP : 25
+11.501568 #10: FRAME from 11 : 0,4,-2!2
+11.501600 #10: FRAME from 12 : 0,5,-2!3
+11.501632 #10: FRAME from 13 : 0,6,-2!4
+11.501664 #10: FRAME from 14 : 0,7,-2!5
+11.501696 #10: FRAME from 15 : 0,8,-2!5
+11.501728 #10: END MAP MSG : 0 FROM 11
+11.501728 #10: DEBUG :9: END : 0 FRAME : 4
+11.501728 #10: DEBUG :9: END : 0 FRAME : 3
+11.501728 #10: DEBUG :9: END : 0 FRAME : 2
+11.501728 #10: DEBUG :9: END : 0 FRAME : 1
+11.501728 #10: DEBUG :9: END : 0 FRAME : 0
+11.501728 #10: SEND ENDMAP : 9
+12.001088 #101: FRAME from 102 : -2,10,-1!2
+12.001088 #85: FRAME from 86 : -1,13,-1!2
+12.001120 #101: FRAME from 103 : -2,11,-1!3
+12.001120 #85: FRAME from 87 : -1,14,-1!3
+12.001152 #101: FRAME from 104 : -2,12,-1!4
+12.001152 #85: FRAME from 88 : -1,15,-1!4
+12.001184 #101: FRAME from 105 : -2,13,-1!5
+12.001184 #85: FRAME from 34 : -1,15,-2!5
+12.001216 #101: FRAME from 106 : -2,14,-1!5
+12.001216 #85: FRAME from 50 : -2,15,-2!5
+12.001248 #101: END MAP MSG : 0 FROM 102
+12.001248 #101: DEBUG :100: END : 0 FRAME : 4
+12.001248 #101: DEBUG :100: END : 0 FRAME : 3
+12.001248 #101: DEBUG :100: END : 0 FRAME : 2
+12.001248 #101: DEBUG :100: END : 0 FRAME : 1
+12.001248 #101: DEBUG :100: END : 0 FRAME : 0
+12.001248 #101: SEND ENDMAP : 100
+12.001248 #85: END MAP MSG : 0 FROM 86
+12.001248 #85: DEBUG :84: END : 0 FRAME : 4
+12.001248 #85: DEBUG :84: END : 0 FRAME : 3
+12.001248 #85: DEBUG :84: END : 0 FRAME : 2
+12.001248 #85: DEBUG :84: END : 0 FRAME : 1
+12.001248 #85: DEBUG :84: END : 0 FRAME : 0
+12.001248 #85: SEND ENDMAP : 84
+12.001248 #65: WAIT BUFFER BY 64
+12.001280 #63: FRAME from 64 : 0,10,-1!2
+12.001312 #63: FRAME from 65 : 0,11,-1!3
+12.001344 #63: FRAME from 66 : 0,12,-1!4
+12.001376 #63: FRAME from 67 : 0,13,-1!5
+12.001376 #44: WAIT BUFFER BY 43
+12.001408 #63: FRAME from 68 : 0,14,-1!5
+12.001408 #42: FRAME from 43 : -2,5,-2!2
+12.001440 #63: END MAP MSG : 0 FROM 64
+12.001440 #63: DEBUG :62: END : 0 FRAME : 4
+12.001440 #63: DEBUG :62: END : 0 FRAME : 3
+12.001440 #63: DEBUG :62: END : 0 FRAME : 2
+12.001440 #63: DEBUG :62: END : 0 FRAME : 1
+12.001440 #63: DEBUG :62: END : 0 FRAME : 0
+12.001440 #63: SEND ENDMAP : 62
+12.001440 #42: FRAME from 44 : -2,6,-2!3
+12.001472 #42: FRAME from 45 : -2,7,-2!4
+12.001504 #42: FRAME from 46 : -2,8,-2!5
+12.001536 #42: FRAME from 47 : -2,9,-2!5
+12.001568 #42: END MAP MSG : 0 FROM 43
+12.001568 #42: DEBUG :41: END : 0 FRAME : 4
+12.001568 #42: DEBUG :41: END : 0 FRAME : 3
+12.001568 #42: DEBUG :41: END : 0 FRAME : 2
+12.001568 #42: DEBUG :41: END : 0 FRAME : 1
+12.001568 #42: DEBUG :41: END : 0 FRAME : 0
+12.001568 #42: SEND ENDMAP : 41
+12.001568 #27: WAIT BUFFER BY 26
+12.001600 #25: FRAME from 26 : -1,4,-2!2
+12.001632 #25: FRAME from 27 : -1,5,-2!3
+12.001664 #25: FRAME from 28 : -1,6,-2!4
+12.001696 #25: FRAME from 29 : -1,7,-2!5
+12.001728 #25: FRAME from 30 : -1,8,-2!5
+12.001728 #11: WAIT BUFFER BY 10
+12.001760 #25: END MAP MSG : 0 FROM 26
+12.001760 #25: DEBUG :24: END : 0 FRAME : 4
+12.001760 #25: DEBUG :24: END : 0 FRAME : 3
+12.001760 #25: DEBUG :24: END : 0 FRAME : 2
+12.001760 #25: DEBUG :24: END : 0 FRAME : 1
+12.001760 #25: DEBUG :24: END : 0 FRAME : 0
+12.001760 #25: SEND ENDMAP : 24
+12.001760 #9: FRAME from 10 : 0,3,-2!2
+12.001792 #9: FRAME from 11 : 0,4,-2!3
+12.001824 #9: FRAME from 12 : 0,5,-2!4
+12.001856 #9: FRAME from 13 : 0,6,-2!5
+12.001888 #9: FRAME from 14 : 0,7,-2!5
+12.001920 #9: END MAP MSG : 0 FROM 10
+12.001920 #9: DEBUG :8: END : 0 FRAME : 4
+12.001920 #9: DEBUG :8: END : 0 FRAME : 3
+12.001920 #9: DEBUG :8: END : 0 FRAME : 2
+12.001920 #9: DEBUG :8: END : 0 FRAME : 1
+12.001920 #9: DEBUG :8: END : 0 FRAME : 0
+12.001920 #9: SEND ENDMAP : 8
+12.501248 #102: WAIT BUFFER BY 101
+12.501248 #86: WAIT BUFFER BY 85
+12.501280 #100: FRAME from 101 : -2,9,-1!2
+12.501280 #84: FRAME from 85 : -1,12,-1!2
+12.501312 #100: FRAME from 102 : -2,10,-1!3
+12.501312 #84: FRAME from 86 : -1,13,-1!3
+12.501344 #100: FRAME from 103 : -2,11,-1!4
+12.501344 #84: FRAME from 87 : -1,14,-1!4
+12.501376 #100: FRAME from 104 : -2,12,-1!5
+12.501376 #84: FRAME from 88 : -1,15,-1!5
+12.501408 #100: FRAME from 105 : -2,13,-1!5
+12.501408 #84: FRAME from 34 : -1,15,-2!5
+12.501440 #100: END MAP MSG : 0 FROM 101
+12.501440 #100: DEBUG :99: END : 0 FRAME : 4
+12.501440 #100: DEBUG :99: END : 0 FRAME : 3
+12.501440 #100: DEBUG :99: END : 0 FRAME : 2
+12.501440 #100: DEBUG :99: END : 0 FRAME : 1
+12.501440 #100: DEBUG :99: END : 0 FRAME : 0
+12.501440 #100: SEND ENDMAP : 99
+12.501440 #84: END MAP MSG : 0 FROM 85
+12.501440 #84: DEBUG :83: END : 0 FRAME : 4
+12.501440 #84: DEBUG :83: END : 0 FRAME : 3
+12.501440 #84: DEBUG :83: END : 0 FRAME : 2
+12.501440 #84: DEBUG :83: END : 0 FRAME : 1
+12.501440 #84: DEBUG :83: END : 0 FRAME : 0
+12.501440 #84: SEND ENDMAP : 83
+12.501440 #64: WAIT BUFFER BY 63
+12.501472 #62: FRAME from 63 : 0,9,-1!2
+12.501504 #62: FRAME from 64 : 0,10,-1!3
+12.501536 #62: FRAME from 65 : 0,11,-1!4
+12.501568 #62: FRAME from 66 : 0,12,-1!5
+12.501568 #43: WAIT BUFFER BY 42
+12.501600 #62: FRAME from 67 : 0,13,-1!5
+12.501600 #41: FRAME from 42 : -2,4,-2!2
+12.501632 #62: END MAP MSG : 0 FROM 63
+12.501632 #62: DEBUG :61: END : 0 FRAME : 4
+12.501632 #62: DEBUG :61: END : 0 FRAME : 3
+12.501632 #62: DEBUG :61: END : 0 FRAME : 2
+12.501632 #62: DEBUG :61: END : 0 FRAME : 1
+12.501632 #62: DEBUG :61: END : 0 FRAME : 0
+12.501632 #62: SEND ENDMAP : 61
+12.501632 #41: FRAME from 43 : -2,5,-2!3
+12.501664 #41: FRAME from 44 : -2,6,-2!4
+12.501696 #41: FRAME from 45 : -2,7,-2!5
+12.501728 #41: FRAME from 46 : -2,8,-2!5
+12.501760 #41: END MAP MSG : 0 FROM 42
+12.501760 #41: DEBUG :40: END : 0 FRAME : 4
+12.501760 #41: DEBUG :40: END : 0 FRAME : 3
+12.501760 #41: DEBUG :40: END : 0 FRAME : 2
+12.501760 #41: DEBUG :40: END : 0 FRAME : 1
+12.501760 #41: DEBUG :40: END : 0 FRAME : 0
+12.501760 #41: SEND ENDMAP : 40
+12.501760 #26: WAIT BUFFER BY 25
+12.501792 #24: FRAME from 25 : -1,3,-2!2
+12.501824 #24: FRAME from 26 : -1,4,-2!3
+12.501856 #24: FRAME from 27 : -1,5,-2!4
+12.501888 #24: FRAME from 28 : -1,6,-2!5
+12.501920 #24: FRAME from 29 : -1,7,-2!5
+12.501920 #10: WAIT BUFFER BY 9
+12.501952 #24: END MAP MSG : 0 FROM 25
+12.501952 #24: DEBUG :23: END : 0 FRAME : 4
+12.501952 #24: DEBUG :23: END : 0 FRAME : 3
+12.501952 #24: DEBUG :23: END : 0 FRAME : 2
+12.501952 #24: DEBUG :23: END : 0 FRAME : 1
+12.501952 #24: DEBUG :23: END : 0 FRAME : 0
+12.501952 #24: SEND ENDMAP : 23
+12.501952 #8: FRAME from 9 : 0,2,-2!2
+12.501984 #8: FRAME from 10 : 0,3,-2!3
+12.502016 #8: FRAME from 11 : 0,4,-2!4
+12.502048 #8: FRAME from 12 : 0,5,-2!5
+12.502080 #8: FRAME from 13 : 0,6,-2!5
+12.502112 #8: END MAP MSG : 0 FROM 9
+12.502112 #8: DEBUG :7: END : 0 FRAME : 4
+12.502112 #8: DEBUG :7: END : 0 FRAME : 3
+12.502112 #8: DEBUG :7: END : 0 FRAME : 2
+12.502112 #8: DEBUG :7: END : 0 FRAME : 1
+12.502112 #8: DEBUG :7: END : 0 FRAME : 0
+12.502112 #8: SEND ENDMAP : 7
+13.001440 #101: WAIT BUFFER BY 100
+13.001440 #85: WAIT BUFFER BY 84
+13.001472 #99: FRAME from 100 : -2,8,-1!2
+13.001472 #83: FRAME from 84 : -1,11,-1!2
+13.001504 #99: FRAME from 101 : -2,9,-1!3
+13.001504 #83: FRAME from 85 : -1,12,-1!3
+13.001536 #99: FRAME from 102 : -2,10,-1!4
+13.001536 #83: FRAME from 86 : -1,13,-1!4
+13.001568 #99: FRAME from 103 : -2,11,-1!5
+13.001568 #83: FRAME from 87 : -1,14,-1!5
+13.001600 #99: FRAME from 104 : -2,12,-1!5
+13.001600 #83: FRAME from 88 : -1,15,-1!5
+13.001632 #99: END MAP MSG : 0 FROM 100
+13.001632 #99: DEBUG :98: END : 0 FRAME : 4
+13.001632 #99: DEBUG :98: END : 0 FRAME : 3
+13.001632 #99: DEBUG :98: END : 0 FRAME : 2
+13.001632 #99: DEBUG :98: END : 0 FRAME : 1
+13.001632 #99: DEBUG :98: END : 0 FRAME : 0
+13.001632 #99: SEND ENDMAP : 98
+13.001632 #83: END MAP MSG : 0 FROM 84
+13.001632 #83: DEBUG :82: END : 0 FRAME : 4
+13.001632 #83: DEBUG :82: END : 0 FRAME : 3
+13.001632 #83: DEBUG :82: END : 0 FRAME : 2
+13.001632 #83: DEBUG :82: END : 0 FRAME : 1
+13.001632 #83: DEBUG :82: END : 0 FRAME : 0
+13.001632 #83: SEND ENDMAP : 82
+13.001632 #63: WAIT BUFFER BY 62
+13.001664 #61: FRAME from 62 : 0,8,-1!2
+13.001696 #61: FRAME from 63 : 0,9,-1!3
+13.001728 #61: FRAME from 64 : 0,10,-1!4
+13.001760 #61: FRAME from 65 : 0,11,-1!5
+13.001760 #42: WAIT BUFFER BY 41
+13.001792 #61: FRAME from 66 : 0,12,-1!5
+13.001792 #40: FRAME from 41 : -2,3,-2!2
+13.001824 #61: END MAP MSG : 0 FROM 62
+13.001824 #61: DEBUG :60: END : 0 FRAME : 4
+13.001824 #61: DEBUG :60: END : 0 FRAME : 3
+13.001824 #61: DEBUG :60: END : 0 FRAME : 2
+13.001824 #61: DEBUG :60: END : 0 FRAME : 1
+13.001824 #61: DEBUG :60: END : 0 FRAME : 0
+13.001824 #61: SEND ENDMAP : 60
+13.001824 #40: FRAME from 42 : -2,4,-2!3
+13.001856 #40: FRAME from 43 : -2,5,-2!4
+13.001888 #40: FRAME from 44 : -2,6,-2!5
+13.001920 #40: FRAME from 45 : -2,7,-2!5
+13.001952 #40: END MAP MSG : 0 FROM 41
+13.001952 #40: DEBUG :39: END : 0 FRAME : 4
+13.001952 #40: DEBUG :39: END : 0 FRAME : 3
+13.001952 #40: DEBUG :39: END : 0 FRAME : 2
+13.001952 #40: DEBUG :39: END : 0 FRAME : 1
+13.001952 #40: DEBUG :39: END : 0 FRAME : 0
+13.001952 #40: SEND ENDMAP : 39
+13.001952 #25: WAIT BUFFER BY 24
+13.001984 #23: FRAME from 24 : -1,2,-2!2
+13.002016 #23: FRAME from 25 : -1,3,-2!3
+13.002048 #23: FRAME from 26 : -1,4,-2!4
+13.002080 #23: FRAME from 27 : -1,5,-2!5
+13.002112 #23: FRAME from 28 : -1,6,-2!5
+13.002112 #9: WAIT BUFFER BY 8
+13.002144 #23: END MAP MSG : 0 FROM 24
+13.002144 #23: DEBUG :22: END : 0 FRAME : 4
+13.002144 #23: DEBUG :22: END : 0 FRAME : 3
+13.002144 #23: DEBUG :22: END : 0 FRAME : 2
+13.002144 #23: DEBUG :22: END : 0 FRAME : 1
+13.002144 #23: DEBUG :22: END : 0 FRAME : 0
+13.002144 #23: SEND ENDMAP : 22
+13.002144 #7: FRAME from 8 : 0,1,-2!5
+13.002176 #7: FRAME from 9 : 0,2,-2!5
+13.002208 #7: FRAME from 10 : 0,3,-2!5
+13.002240 #7: FRAME from 11 : 0,4,-2!5
+13.002272 #7: FRAME from 12 : 0,5,-2!5
+13.002304 #7: END MAP MSG : 1 FROM 8
+13.501632 #100: WAIT BUFFER BY 99
+13.501632 #84: WAIT BUFFER BY 83
+13.501664 #98: FRAME from 99 : -2,7,-1!2
+13.501664 #82: FRAME from 83 : -1,10,-1!2
+13.501696 #98: FRAME from 100 : -2,8,-1!3
+13.501696 #82: FRAME from 84 : -1,11,-1!3
+13.501728 #98: FRAME from 101 : -2,9,-1!4
+13.501728 #82: FRAME from 85 : -1,12,-1!4
+13.501760 #98: FRAME from 102 : -2,10,-1!5
+13.501760 #82: FRAME from 86 : -1,13,-1!5
+13.501792 #98: FRAME from 103 : -2,11,-1!5
+13.501792 #82: FRAME from 87 : -1,14,-1!5
+13.501824 #98: END MAP MSG : 0 FROM 99
+13.501824 #98: DEBUG :97: END : 0 FRAME : 4
+13.501824 #98: DEBUG :97: END : 0 FRAME : 3
+13.501824 #98: DEBUG :97: END : 0 FRAME : 2
+13.501824 #98: DEBUG :97: END : 0 FRAME : 1
+13.501824 #98: DEBUG :97: END : 0 FRAME : 0
+13.501824 #98: SEND ENDMAP : 97
+13.501824 #82: END MAP MSG : 0 FROM 83
+13.501824 #82: DEBUG :81: END : 0 FRAME : 4
+13.501824 #82: DEBUG :81: END : 0 FRAME : 3
+13.501824 #82: DEBUG :81: END : 0 FRAME : 2
+13.501824 #82: DEBUG :81: END : 0 FRAME : 1
+13.501824 #82: DEBUG :81: END : 0 FRAME : 0
+13.501824 #82: SEND ENDMAP : 81
+13.501824 #62: WAIT BUFFER BY 61
+13.501856 #60: FRAME from 61 : 0,7,-1!2
+13.501888 #60: FRAME from 62 : 0,8,-1!3
+13.501920 #60: FRAME from 63 : 0,9,-1!4
+13.501952 #60: FRAME from 64 : 0,10,-1!5
+13.501952 #41: WAIT BUFFER BY 40
+13.501984 #60: FRAME from 65 : 0,11,-1!5
+13.501984 #39: FRAME from 40 : -2,2,-2!2
+13.502016 #60: END MAP MSG : 0 FROM 61
+13.502016 #60: DEBUG :59: END : 0 FRAME : 4
+13.502016 #60: DEBUG :59: END : 0 FRAME : 3
+13.502016 #60: DEBUG :59: END : 0 FRAME : 2
+13.502016 #60: DEBUG :59: END : 0 FRAME : 1
+13.502016 #60: DEBUG :59: END : 0 FRAME : 0
+13.502016 #60: SEND ENDMAP : 59
+13.502016 #39: FRAME from 41 : -2,3,-2!3
+13.502048 #39: FRAME from 42 : -2,4,-2!4
+13.502080 #39: FRAME from 43 : -2,5,-2!5
+13.502112 #39: FRAME from 44 : -2,6,-2!5
+13.502144 #39: END MAP MSG : 0 FROM 40
+13.502144 #39: DEBUG :38: END : 0 FRAME : 4
+13.502144 #39: DEBUG :38: END : 0 FRAME : 3
+13.502144 #39: DEBUG :38: END : 0 FRAME : 2
+13.502144 #39: DEBUG :38: END : 0 FRAME : 1
+13.502144 #39: DEBUG :38: END : 0 FRAME : 0
+13.502144 #39: SEND ENDMAP : 38
+13.502144 #24: WAIT BUFFER BY 23
+13.502176 #22: FRAME from 23 : -1,1,-2!5
+13.502208 #22: FRAME from 24 : -1,2,-2!5
+13.502208 #8: WAIT BUFFER BY 7
+13.502240 #22: FRAME from 25 : -1,3,-2!5
+13.502240 #8: WAIT BUFFER BY 7
+13.502272 #22: FRAME from 26 : -1,4,-2!5
+13.502272 #8: WAIT BUFFER BY 7
+13.502304 #22: FRAME from 27 : -1,5,-2!5
+13.502304 #8: WAIT BUFFER BY 7
+13.502336 #22: END MAP MSG : 1 FROM 23
+14.001824 #99: WAIT BUFFER BY 98
+14.001824 #83: WAIT BUFFER BY 82
+14.001856 #97: FRAME from 98 : -2,6,-1!2
+14.001856 #81: FRAME from 82 : -1,9,-1!2
+14.001888 #97: FRAME from 99 : -2,7,-1!3
+14.001888 #81: FRAME from 83 : -1,10,-1!3
+14.001920 #97: FRAME from 100 : -2,8,-1!4
+14.001920 #81: FRAME from 84 : -1,11,-1!4
+14.001952 #97: FRAME from 101 : -2,9,-1!5
+14.001952 #81: FRAME from 85 : -1,12,-1!5
+14.001984 #97: FRAME from 102 : -2,10,-1!5
+14.001984 #81: FRAME from 86 : -1,13,-1!5
+14.002016 #97: END MAP MSG : 0 FROM 98
+14.002016 #97: DEBUG :96: END : 0 FRAME : 4
+14.002016 #97: DEBUG :96: END : 0 FRAME : 3
+14.002016 #97: DEBUG :96: END : 0 FRAME : 2
+14.002016 #97: DEBUG :96: END : 0 FRAME : 1
+14.002016 #97: DEBUG :96: END : 0 FRAME : 0
+14.002016 #97: SEND ENDMAP : 96
+14.002016 #81: END MAP MSG : 0 FROM 82
+14.002016 #81: DEBUG :80: END : 0 FRAME : 4
+14.002016 #81: DEBUG :80: END : 0 FRAME : 3
+14.002016 #81: DEBUG :80: END : 0 FRAME : 2
+14.002016 #81: DEBUG :80: END : 0 FRAME : 1
+14.002016 #81: DEBUG :80: END : 0 FRAME : 0
+14.002016 #81: SEND ENDMAP : 80
+14.002016 #61: WAIT BUFFER BY 60
+14.002048 #59: FRAME from 60 : 0,6,-1!2
+14.002080 #59: FRAME from 61 : 0,7,-1!3
+14.002112 #59: FRAME from 62 : 0,8,-1!4
+14.002144 #59: FRAME from 63 : 0,9,-1!5
+14.002144 #40: WAIT BUFFER BY 39
+14.002176 #59: FRAME from 64 : 0,10,-1!5
+14.002176 #38: FRAME from 39 : -2,1,-2!5
+14.002208 #59: END MAP MSG : 0 FROM 60
+14.002208 #59: DEBUG :58: END : 0 FRAME : 4
+14.002208 #59: DEBUG :58: END : 0 FRAME : 3
+14.002208 #59: DEBUG :58: END : 0 FRAME : 2
+14.002208 #59: DEBUG :58: END : 0 FRAME : 1
+14.002208 #59: DEBUG :58: END : 0 FRAME : 0
+14.002208 #59: SEND ENDMAP : 58
+14.002208 #38: FRAME from 40 : -2,2,-2!5
+14.002240 #38: FRAME from 41 : -2,3,-2!5
+14.002240 #23: WAIT BUFFER BY 22
+14.002272 #38: FRAME from 42 : -2,4,-2!5
+14.002272 #23: WAIT BUFFER BY 22
+14.002304 #38: FRAME from 43 : -2,5,-2!5
+14.002304 #23: WAIT BUFFER BY 22
+14.002336 #38: END MAP MSG : 0 FROM 39
+14.002336 #38: DEBUG :22: END : 0 FRAME : 4
+14.002336 #38: DEBUG :22: END : 0 FRAME : 3
+14.002336 #38: DEBUG :22: END : 0 FRAME : 2
+14.002336 #38: DEBUG :22: END : 0 FRAME : 1
+14.002336 #38: DEBUG :22: END : 0 FRAME : 0
+14.002336 #38: SEND ENDMAP : 22
+14.002336 #23: WAIT BUFFER BY 22
+14.502016 #98: WAIT BUFFER BY 97
+14.502016 #82: WAIT BUFFER BY 81
+14.502048 #96: FRAME from 97 : -2,5,-1!2
+14.502048 #80: FRAME from 81 : -1,8,-1!2
+14.502080 #96: FRAME from 98 : -2,6,-1!3
+14.502080 #80: FRAME from 82 : -1,9,-1!3
+14.502112 #96: FRAME from 99 : -2,7,-1!4
+14.502112 #80: FRAME from 83 : -1,10,-1!4
+14.502144 #96: FRAME from 100 : -2,8,-1!5
+14.502144 #80: FRAME from 84 : -1,11,-1!5
+14.502176 #96: FRAME from 101 : -2,9,-1!5
+14.502176 #80: FRAME from 85 : -1,12,-1!5
+14.502208 #96: END MAP MSG : 0 FROM 97
+14.502208 #96: DEBUG :95: END : 0 FRAME : 4
+14.502208 #96: DEBUG :95: END : 0 FRAME : 3
+14.502208 #96: DEBUG :95: END : 0 FRAME : 2
+14.502208 #96: DEBUG :95: END : 0 FRAME : 1
+14.502208 #96: DEBUG :95: END : 0 FRAME : 0
+14.502208 #96: SEND ENDMAP : 95
+14.502208 #80: END MAP MSG : 0 FROM 81
+14.502208 #80: DEBUG :79: END : 0 FRAME : 4
+14.502208 #80: DEBUG :79: END : 0 FRAME : 3
+14.502208 #80: DEBUG :79: END : 0 FRAME : 2
+14.502208 #80: DEBUG :79: END : 0 FRAME : 1
+14.502208 #80: DEBUG :79: END : 0 FRAME : 0
+14.502208 #80: SEND ENDMAP : 79
+14.502208 #60: WAIT BUFFER BY 59
+14.502240 #58: FRAME from 59 : 0,5,-1!2
+14.502240 #39: WAIT BUFFER BY 38
+14.502272 #58: FRAME from 60 : 0,6,-1!3
+14.502272 #39: WAIT BUFFER BY 38
+14.502304 #58: FRAME from 61 : 0,7,-1!4
+14.502304 #39: WAIT BUFFER BY 38
+14.502336 #58: FRAME from 62 : 0,8,-1!5
+14.502336 #39: WAIT BUFFER BY 38
+14.502368 #58: FRAME from 63 : 0,9,-1!5
+14.502368 #22: FRAME from 38 : -2,0,-2!5
+14.502400 #58: END MAP MSG : 0 FROM 59
+14.502400 #58: DEBUG :57: END : 0 FRAME : 4
+14.502400 #58: DEBUG :57: END : 0 FRAME : 3
+14.502400 #58: DEBUG :57: END : 0 FRAME : 2
+14.502400 #58: DEBUG :57: END : 0 FRAME : 1
+14.502400 #58: DEBUG :57: END : 0 FRAME : 0
+14.502400 #58: SEND ENDMAP : 57
+14.502400 #22: FRAME from 37 : -2,-1,-2!5
+14.502432 #22: FRAME from 36 : -2,-2,-2!5
+14.502464 #22: FRAME from 35 : -2,-3,-2!5
+14.502496 #22: FRAME from 39 : -2,1,-2!5
+14.502528 #22: END MAP MSG : 0 FROM 38
+14.502528 #22: DEBUG :7: END : 0 FRAME : 4
+14.502528 #22: DEBUG :7: END : 0 FRAME : 3
+14.502528 #22: DEBUG :7: END : 0 FRAME : 2
+14.502528 #22: DEBUG :7: END : 0 FRAME : 1
+14.502528 #22: DEBUG :7: END : 0 FRAME : 0
+14.502528 #22: SEND ENDMAP : 7
+15.002208 #97: WAIT BUFFER BY 96
+15.002208 #81: WAIT BUFFER BY 80
+15.002240 #95: FRAME from 96 : -2,4,-1!2
+15.002240 #79: FRAME from 80 : -1,7,-1!2
+15.002272 #95: FRAME from 97 : -2,5,-1!3
+15.002272 #79: FRAME from 81 : -1,8,-1!3
+15.002304 #95: FRAME from 98 : -2,6,-1!4
+15.002304 #79: FRAME from 82 : -1,9,-1!4
+15.002336 #95: FRAME from 99 : -2,7,-1!5
+15.002336 #79: FRAME from 83 : -1,10,-1!5
+15.002368 #95: FRAME from 100 : -2,8,-1!5
+15.002368 #79: FRAME from 84 : -1,11,-1!5
+15.002400 #95: END MAP MSG : 0 FROM 96
+15.002400 #95: DEBUG :94: END : 0 FRAME : 4
+15.002400 #95: DEBUG :94: END : 0 FRAME : 3
+15.002400 #95: DEBUG :94: END : 0 FRAME : 2
+15.002400 #95: DEBUG :94: END : 0 FRAME : 1
+15.002400 #95: DEBUG :94: END : 0 FRAME : 0
+15.002400 #95: SEND ENDMAP : 94
+15.002400 #79: END MAP MSG : 0 FROM 80
+15.002400 #79: DEBUG :78: END : 0 FRAME : 4
+15.002400 #79: DEBUG :78: END : 0 FRAME : 3
+15.002400 #79: DEBUG :78: END : 0 FRAME : 2
+15.002400 #79: DEBUG :78: END : 0 FRAME : 1
+15.002400 #79: DEBUG :78: END : 0 FRAME : 0
+15.002400 #79: SEND ENDMAP : 78
+15.002400 #59: WAIT BUFFER BY 58
+15.002400 #38: WAIT BUFFER BY 22
+15.002432 #38: WAIT BUFFER BY 22
+15.002432 #57: FRAME from 58 : 0,4,-1!2
+15.002464 #38: WAIT BUFFER BY 22
+15.002464 #57: FRAME from 59 : 0,5,-1!3
+15.002496 #38: WAIT BUFFER BY 22
+15.002496 #57: FRAME from 60 : 0,6,-1!4
+15.002528 #38: WAIT BUFFER BY 22
+15.002528 #57: FRAME from 61 : 0,7,-1!5
+15.002560 #57: FRAME from 62 : 0,8,-1!5
+15.002560 #7: FRAME from 22 : -1,0,-2!5
+15.002592 #57: END MAP MSG : 0 FROM 58
+15.002592 #57: DEBUG :56: END : 0 FRAME : 4
+15.002592 #57: DEBUG :56: END : 0 FRAME : 3
+15.002592 #57: DEBUG :56: END : 0 FRAME : 2
+15.002592 #57: DEBUG :56: END : 0 FRAME : 1
+15.002592 #57: DEBUG :56: END : 0 FRAME : 0
+15.002592 #57: SEND ENDMAP : 56
+15.002592 #7: FRAME from 21 : -1,-1,-2!5
+15.002624 #7: FRAME from 20 : -1,-2,-2!5
+15.002656 #7: FRAME from 19 : -1,-3,-2!5
+15.002688 #7: FRAME from 23 : -1,1,-2!5
+15.002720 #7: END MAP MSG : 0 FROM 22
+15.002720 #7: DEBUG :54: END : 0 FRAME : 4
+15.002720 #7: DEBUG :54: END : 0 FRAME : 3
+15.002720 #7: DEBUG :54: END : 0 FRAME : 2
+15.002720 #7: DEBUG :54: END : 0 FRAME : 1
+15.002720 #7: DEBUG :54: END : 0 FRAME : 0
+15.002720 #7: SEND ENDMAP : 54
+15.502400 #96: WAIT BUFFER BY 95
+15.502400 #80: WAIT BUFFER BY 79
+15.502432 #94: FRAME from 95 : -2,3,-1!2
+15.502432 #78: FRAME from 79 : -1,6,-1!2
+15.502464 #94: FRAME from 96 : -2,4,-1!3
+15.502464 #78: FRAME from 80 : -1,7,-1!3
+15.502496 #94: FRAME from 97 : -2,5,-1!4
+15.502496 #78: FRAME from 81 : -1,8,-1!4
+15.502528 #94: FRAME from 98 : -2,6,-1!5
+15.502528 #78: FRAME from 82 : -1,9,-1!5
+15.502560 #94: FRAME from 99 : -2,7,-1!5
+15.502560 #78: FRAME from 83 : -1,10,-1!5
+15.502592 #94: END MAP MSG : 0 FROM 95
+15.502592 #94: DEBUG :93: END : 0 FRAME : 4
+15.502592 #94: DEBUG :93: END : 0 FRAME : 3
+15.502592 #94: DEBUG :93: END : 0 FRAME : 2
+15.502592 #94: DEBUG :93: END : 0 FRAME : 1
+15.502592 #94: DEBUG :93: END : 0 FRAME : 0
+15.502592 #94: SEND ENDMAP : 93
+15.502592 #78: END MAP MSG : 0 FROM 79
+15.502592 #78: DEBUG :77: END : 0 FRAME : 4
+15.502592 #78: DEBUG :77: END : 0 FRAME : 3
+15.502592 #78: DEBUG :77: END : 0 FRAME : 2
+15.502592 #78: DEBUG :77: END : 0 FRAME : 1
+15.502592 #78: DEBUG :77: END : 0 FRAME : 0
+15.502592 #78: SEND ENDMAP : 77
+15.502592 #58: WAIT BUFFER BY 57
+15.502592 #22: WAIT BUFFER BY 7
+15.502624 #22: WAIT BUFFER BY 7
+15.502624 #56: FRAME from 57 : 0,3,-1!2
+15.502656 #22: WAIT BUFFER BY 7
+15.502656 #56: FRAME from 58 : 0,4,-1!3
+15.502688 #22: WAIT BUFFER BY 7
+15.502688 #56: FRAME from 59 : 0,5,-1!4
+15.502720 #22: WAIT BUFFER BY 7
+15.502720 #56: FRAME from 60 : 0,6,-1!5
+15.502752 #56: FRAME from 61 : 0,7,-1!5
+15.502752 #54: FRAME from 7 : 0,0,-2!5
+15.502784 #56: END MAP MSG : 0 FROM 57
+15.502784 #56: DEBUG :55: END : 0 FRAME : 4
+15.502784 #56: DEBUG :55: END : 0 FRAME : 3
+15.502784 #56: DEBUG :55: END : 0 FRAME : 2
+15.502784 #56: DEBUG :55: END : 0 FRAME : 1
+15.502784 #56: DEBUG :55: END : 0 FRAME : 0
+15.502784 #56: SEND ENDMAP : 55
+15.502784 #54: FRAME from 6 : 0,-1,-2!5
+15.502816 #54: FRAME from 5 : 0,-2,-2!5
+15.502848 #54: FRAME from 4 : 0,-3,-2!5
+15.502880 #54: FRAME from 8 : 0,1,-2!5
+15.502912 #54: END MAP MSG : 2 FROM 7
+16.002592 #95: WAIT BUFFER BY 94
+16.002592 #79: WAIT BUFFER BY 78
+16.002624 #93: FRAME from 94 : -2,2,-1!2
+16.002624 #77: FRAME from 78 : -1,5,-1!2
+16.002656 #93: FRAME from 95 : -2,3,-1!3
+16.002656 #77: FRAME from 79 : -1,6,-1!3
+16.002688 #93: FRAME from 96 : -2,4,-1!4
+16.002688 #77: FRAME from 80 : -1,7,-1!4
+16.002720 #93: FRAME from 97 : -2,5,-1!5
+16.002720 #77: FRAME from 81 : -1,8,-1!5
+16.002752 #93: FRAME from 98 : -2,6,-1!5
+16.002752 #77: FRAME from 82 : -1,9,-1!5
+16.002784 #93: END MAP MSG : 0 FROM 94
+16.002784 #93: DEBUG :92: END : 0 FRAME : 4
+16.002784 #93: DEBUG :92: END : 0 FRAME : 3
+16.002784 #93: DEBUG :92: END : 0 FRAME : 2
+16.002784 #93: DEBUG :92: END : 0 FRAME : 1
+16.002784 #93: DEBUG :92: END : 0 FRAME : 0
+16.002784 #93: SEND ENDMAP : 92
+16.002784 #77: END MAP MSG : 0 FROM 78
+16.002784 #77: DEBUG :76: END : 0 FRAME : 4
+16.002784 #77: DEBUG :76: END : 0 FRAME : 3
+16.002784 #77: DEBUG :76: END : 0 FRAME : 2
+16.002784 #77: DEBUG :76: END : 0 FRAME : 1
+16.002784 #77: DEBUG :76: END : 0 FRAME : 0
+16.002784 #77: SEND ENDMAP : 76
+16.002784 #57: WAIT BUFFER BY 56
+16.002816 #55: FRAME from 56 : 0,2,-1!2
+16.002816 #7: WAIT BUFFER BY 54
+16.002848 #55: FRAME from 57 : 0,3,-1!3
+16.002848 #7: WAIT BUFFER BY 54
+16.002880 #55: FRAME from 58 : 0,4,-1!4
+16.002880 #7: WAIT BUFFER BY 54
+16.002912 #55: FRAME from 59 : 0,5,-1!5
+16.002912 #7: WAIT BUFFER BY 54
+16.002944 #55: FRAME from 60 : 0,6,-1!5
+16.002976 #55: END MAP MSG : 0 FROM 56
+16.002976 #55: DEBUG :54: END : 0 FRAME : 4
+16.002976 #55: DEBUG :54: END : 0 FRAME : 3
+16.002976 #55: DEBUG :54: END : 0 FRAME : 2
+16.002976 #55: DEBUG :54: END : 0 FRAME : 1
+16.002976 #55: DEBUG :54: END : 0 FRAME : 0
+16.002976 #55: SEND ENDMAP : 54
+16.502784 #94: WAIT BUFFER BY 93
+16.502784 #78: WAIT BUFFER BY 77
+16.502816 #92: FRAME from 93 : -2,1,-1!5
+16.502816 #76: FRAME from 77 : -1,4,-1!2
+16.502848 #92: FRAME from 94 : -2,2,-1!5
+16.502848 #76: FRAME from 78 : -1,5,-1!3
+16.502880 #92: FRAME from 95 : -2,3,-1!5
+16.502880 #76: FRAME from 79 : -1,6,-1!4
+16.502912 #92: FRAME from 96 : -2,4,-1!5
+16.502912 #76: FRAME from 80 : -1,7,-1!5
+16.502944 #92: FRAME from 97 : -2,5,-1!5
+16.502944 #76: FRAME from 81 : -1,8,-1!5
+16.502976 #92: END MAP MSG : 0 FROM 93
+16.502976 #92: DEBUG :73: END : 0 FRAME : 4
+16.502976 #92: DEBUG :73: END : 0 FRAME : 3
+16.502976 #92: DEBUG :73: END : 0 FRAME : 2
+16.502976 #92: DEBUG :73: END : 0 FRAME : 1
+16.502976 #92: DEBUG :73: END : 0 FRAME : 0
+16.502976 #92: SEND ENDMAP : 73
+16.502976 #76: END MAP MSG : 0 FROM 77
+16.502976 #76: DEBUG :75: END : 0 FRAME : 4
+16.502976 #76: DEBUG :75: END : 0 FRAME : 3
+16.502976 #76: DEBUG :75: END : 0 FRAME : 2
+16.502976 #76: DEBUG :75: END : 0 FRAME : 1
+16.502976 #76: DEBUG :75: END : 0 FRAME : 0
+16.502976 #76: SEND ENDMAP : 75
+16.502976 #56: WAIT BUFFER BY 55
+16.503008 #54: FRAME from 55 : 0,1,-1!5
+16.503040 #54: FRAME from 56 : 0,2,-1!5
+16.503072 #54: FRAME from 57 : 0,3,-1!5
+16.503104 #54: FRAME from 58 : 0,4,-1!5
+16.503136 #54: FRAME from 59 : 0,5,-1!5
+16.503168 #54: END MAP MSG : 1 FROM 55
+17.002880 #93: WAIT BUFFER BY 92
+17.002912 #93: WAIT BUFFER BY 92
+17.002944 #93: WAIT BUFFER BY 92
+17.002976 #93: WAIT BUFFER BY 92
+17.002976 #77: WAIT BUFFER BY 76
+17.003008 #73: FRAME from 92 : -2,0,-1!5
+17.003008 #75: FRAME from 76 : -1,3,-1!2
+17.003040 #73: FRAME from 91 : -2,-1,-1!5
+17.003040 #75: FRAME from 77 : -1,4,-1!3
+17.003040 #55: WAIT BUFFER BY 54
+17.003072 #73: FRAME from 90 : -2,-2,-1!5
+17.003072 #75: FRAME from 78 : -1,5,-1!4
+17.003072 #55: WAIT BUFFER BY 54
+17.003104 #73: FRAME from 89 : -2,-3,-1!5
+17.003104 #75: FRAME from 79 : -1,6,-1!5
+17.003104 #55: WAIT BUFFER BY 54
+17.003136 #73: FRAME from 93 : -2,1,-1!5
+17.003136 #75: FRAME from 80 : -1,7,-1!5
+17.003136 #55: WAIT BUFFER BY 54
+17.003168 #73: END MAP MSG : 1 FROM 92
+17.003168 #75: END MAP MSG : 0 FROM 76
+17.003168 #75: DEBUG :74: END : 0 FRAME : 4
+17.003168 #75: DEBUG :74: END : 0 FRAME : 3
+17.003168 #75: DEBUG :74: END : 0 FRAME : 2
+17.003168 #75: DEBUG :74: END : 0 FRAME : 1
+17.003168 #75: DEBUG :74: END : 0 FRAME : 0
+17.003168 #75: SEND ENDMAP : 74
+17.003168 #55: WAIT BUFFER BY 54
+17.503072 #92: WAIT BUFFER BY 73
+17.503104 #92: WAIT BUFFER BY 73
+17.503136 #92: WAIT BUFFER BY 73
+17.503168 #92: WAIT BUFFER BY 73
+17.503168 #76: WAIT BUFFER BY 75
+17.503200 #74: FRAME from 75 : -1,2,-1!2
+17.503232 #74: FRAME from 76 : -1,3,-1!3
+17.503264 #74: FRAME from 77 : -1,4,-1!4
+17.503296 #74: FRAME from 78 : -1,5,-1!5
+17.503328 #74: FRAME from 79 : -1,6,-1!5
+17.503360 #74: END MAP MSG : 0 FROM 75
+17.503360 #74: DEBUG :73: END : 0 FRAME : 4
+17.503360 #74: DEBUG :73: END : 0 FRAME : 3
+17.503360 #74: DEBUG :73: END : 0 FRAME : 2
+17.503360 #74: DEBUG :73: END : 0 FRAME : 1
+17.503360 #74: DEBUG :73: END : 0 FRAME : 0
+17.503360 #74: SEND ENDMAP : 73
+18.003360 #75: WAIT BUFFER BY 74
+18.003392 #73: FRAME from 74 : -1,1,-1!5
+18.003424 #73: FRAME from 75 : -1,2,-1!5
+18.003456 #73: FRAME from 76 : -1,3,-1!5
+18.003488 #73: FRAME from 77 : -1,4,-1!5
+18.003520 #73: FRAME from 78 : -1,5,-1!5
+18.003552 #73: END MAP MSG : 0 FROM 74
+18.003552 #73: DEBUG :54: END : 0 FRAME : 4
+18.003552 #73: DEBUG :54: END : 0 FRAME : 3
+18.003552 #73: DEBUG :54: END : 0 FRAME : 2
+18.003552 #73: DEBUG :54: END : 0 FRAME : 1
+18.003552 #73: DEBUG :54: END : 0 FRAME : 0
+18.003552 #73: SEND ENDMAP : 54
+18.503424 #74: WAIT BUFFER BY 73
+18.503456 #74: WAIT BUFFER BY 73
+18.503488 #74: WAIT BUFFER BY 73
+18.503520 #74: WAIT BUFFER BY 73
+18.503552 #74: WAIT BUFFER BY 73
+18.503584 #54: FRAME from 73 : -1,0,-1!5
+18.503616 #54: FRAME from 72 : -1,-1,-1!5
+18.503648 #54: FRAME from 71 : -1,-2,-1!5
+18.503680 #54: FRAME from 70 : -1,-3,-1!5
+18.503712 #54: FRAME from 92 : -2,0,-1!5
+18.503744 #54: END MAP MSG : 0 FROM 73
+18.503744 #54: DEBUG :3: END : 0 FRAME : 4
+18.503744 #54: DEBUG :3: END : 0 FRAME : 3
+18.503744 #54: DEBUG :3: END : 0 FRAME : 2
+18.503744 #54: DEBUG :3: END : 0 FRAME : 1
+18.503744 #54: DEBUG :3: END : 0 FRAME : 0
+18.503744 #54: SEND ENDMAP : 3
+19.003616 #73: WAIT BUFFER BY 54
+19.003648 #73: WAIT BUFFER BY 54
+19.003680 #73: WAIT BUFFER BY 54
+19.003712 #73: WAIT BUFFER BY 54
+19.003744 #73: WAIT BUFFER BY 54
+19.003776 #3: RECU 54 : 0,0,-1
+19.003808 #3: RECU 53 : 0,-1,-1
+19.003840 #3: RECU 52 : 0,-2,-1
+19.003872 #3: RECU 51 : 0,-3,-1
+19.003904 #3: RECU 7 : 0,0,-2
+19.003936 #3: END MAP MSG : 0 FROM 54
+I'm a RobotBlocksSimulator
+I'm a RobotBlocksScheduler
+I'm a World
+[1;34mRobotBlocksSimulator destructor[0m
+[1;34mSimulator destructor[0m
+[1;31mRobotBlocksScheduler destructor[0m
+Scheduler destructor
+RobotBlocksWorld destructor
+RobotBlocksBlock destructor 1
+BuildingBlock destructor
+RobotBlocksBlock destructor 2
+BuildingBlock destructor
+RobotBlocksBlock destructor 3
+BuildingBlock destructor
+RobotBlocksBlock destructor 4
+BuildingBlock destructor
+RobotBlocksBlock destructor 5
+BuildingBlock destructor
+RobotBlocksBlock destructor 6
+BuildingBlock destructor
+RobotBlocksBlock destructor 7
+BuildingBlock destructor
+RobotBlocksBlock destructor 8
+BuildingBlock destructor
+RobotBlocksBlock destructor 9
+BuildingBlock destructor
+RobotBlocksBlock destructor 10
+BuildingBlock destructor
+RobotBlocksBlock destructor 11
+BuildingBlock destructor
+RobotBlocksBlock destructor 12
+BuildingBlock destructor
+RobotBlocksBlock destructor 13
+BuildingBlock destructor
+RobotBlocksBlock destructor 14
+BuildingBlock destructor
+RobotBlocksBlock destructor 15
+BuildingBlock destructor
+RobotBlocksBlock destructor 16
+BuildingBlock destructor
+RobotBlocksBlock destructor 17
+BuildingBlock destructor
+RobotBlocksBlock destructor 18
+BuildingBlock destructor
+RobotBlocksBlock destructor 19
+BuildingBlock destructor
+RobotBlocksBlock destructor 20
+BuildingBlock destructor
+RobotBlocksBlock destructor 21
+BuildingBlock destructor
+RobotBlocksBlock destructor 22
+BuildingBlock destructor
+RobotBlocksBlock destructor 23
+BuildingBlock destructor
+RobotBlocksBlock destructor 24
+BuildingBlock destructor
+RobotBlocksBlock destructor 25
+BuildingBlock destructor
+RobotBlocksBlock destructor 26
+BuildingBlock destructor
+RobotBlocksBlock destructor 27
+BuildingBlock destructor
+RobotBlocksBlock destructor 28
+BuildingBlock destructor
+RobotBlocksBlock destructor 29
+BuildingBlock destructor
+RobotBlocksBlock destructor 30
+BuildingBlock destructor
+RobotBlocksBlock destructor 31
+BuildingBlock destructor
+RobotBlocksBlock destructor 32
+BuildingBlock destructor
+RobotBlocksBlock destructor 33
+BuildingBlock destructor
+RobotBlocksBlock destructor 34
+BuildingBlock destructor
+RobotBlocksBlock destructor 35
+BuildingBlock destructor
+RobotBlocksBlock destructor 36
+BuildingBlock destructor
+RobotBlocksBlock destructor 37
+BuildingBlock destructor
+RobotBlocksBlock destructor 38
+BuildingBlock destructor
+RobotBlocksBlock destructor 39
+BuildingBlock destructor
+RobotBlocksBlock destructor 40
+BuildingBlock destructor
+RobotBlocksBlock destructor 41
+BuildingBlock destructor
+RobotBlocksBlock destructor 42
+BuildingBlock destructor
+RobotBlocksBlock destructor 43
+BuildingBlock destructor
+RobotBlocksBlock destructor 44
+BuildingBlock destructor
+RobotBlocksBlock destructor 45
+BuildingBlock destructor
+RobotBlocksBlock destructor 46
+BuildingBlock destructor
+RobotBlocksBlock destructor 47
+BuildingBlock destructor
+RobotBlocksBlock destructor 48
+BuildingBlock destructor
+RobotBlocksBlock destructor 49
+BuildingBlock destructor
+RobotBlocksBlock destructor 50
+BuildingBlock destructor
+RobotBlocksBlock destructor 51
+BuildingBlock destructor
+RobotBlocksBlock destructor 52
+BuildingBlock destructor
+RobotBlocksBlock destructor 53
+BuildingBlock destructor
+RobotBlocksBlock destructor 54
+BuildingBlock destructor
+RobotBlocksBlock destructor 55
+BuildingBlock destructor
+RobotBlocksBlock destructor 56
+BuildingBlock destructor
+RobotBlocksBlock destructor 57
+BuildingBlock destructor
+RobotBlocksBlock destructor 58
+BuildingBlock destructor
+RobotBlocksBlock destructor 59
+BuildingBlock destructor
+RobotBlocksBlock destructor 60
+BuildingBlock destructor
+RobotBlocksBlock destructor 61
+BuildingBlock destructor
+RobotBlocksBlock destructor 62
+BuildingBlock destructor
+RobotBlocksBlock destructor 63
+BuildingBlock destructor
+RobotBlocksBlock destructor 64
+BuildingBlock destructor
+RobotBlocksBlock destructor 65
+BuildingBlock destructor
+RobotBlocksBlock destructor 66
+BuildingBlock destructor
+RobotBlocksBlock destructor 67
+BuildingBlock destructor
+RobotBlocksBlock destructor 68
+BuildingBlock destructor
+RobotBlocksBlock destructor 69
+BuildingBlock destructor
+RobotBlocksBlock destructor 70
+BuildingBlock destructor
+RobotBlocksBlock destructor 71
+BuildingBlock destructor
+RobotBlocksBlock destructor 72
+BuildingBlock destructor
+RobotBlocksBlock destructor 73
+BuildingBlock destructor
+RobotBlocksBlock destructor 74
+BuildingBlock destructor
+RobotBlocksBlock destructor 75
+BuildingBlock destructor
+RobotBlocksBlock destructor 76
+BuildingBlock destructor
+RobotBlocksBlock destructor 77
+BuildingBlock destructor
+RobotBlocksBlock destructor 78
+BuildingBlock destructor
+RobotBlocksBlock destructor 79
+BuildingBlock destructor
+RobotBlocksBlock destructor 80
+BuildingBlock destructor
+RobotBlocksBlock destructor 81
+BuildingBlock destructor
+RobotBlocksBlock destructor 82
+BuildingBlock destructor
+RobotBlocksBlock destructor 83
+BuildingBlock destructor
+RobotBlocksBlock destructor 84
+BuildingBlock destructor
+RobotBlocksBlock destructor 85
+BuildingBlock destructor
+RobotBlocksBlock destructor 86
+BuildingBlock destructor
+RobotBlocksBlock destructor 87
+BuildingBlock destructor
+RobotBlocksBlock destructor 88
+BuildingBlock destructor
+RobotBlocksBlock destructor 89
+BuildingBlock destructor
+RobotBlocksBlock destructor 90
+BuildingBlock destructor
+RobotBlocksBlock destructor 91
+BuildingBlock destructor
+RobotBlocksBlock destructor 92
+BuildingBlock destructor
+RobotBlocksBlock destructor 93
+BuildingBlock destructor
+RobotBlocksBlock destructor 94
+BuildingBlock destructor
+RobotBlocksBlock destructor 95
+BuildingBlock destructor
+RobotBlocksBlock destructor 96
+BuildingBlock destructor
+RobotBlocksBlock destructor 97
+BuildingBlock destructor
+RobotBlocksBlock destructor 98
+BuildingBlock destructor
+RobotBlocksBlock destructor 99
+BuildingBlock destructor
+RobotBlocksBlock destructor 100
+BuildingBlock destructor
+RobotBlocksBlock destructor 101
+BuildingBlock destructor
+RobotBlocksBlock destructor 102
+BuildingBlock destructor
+RobotBlocksBlock destructor 103
+BuildingBlock destructor
+RobotBlocksBlock destructor 104
+BuildingBlock destructor
+RobotBlocksBlock destructor 105
+BuildingBlock destructor
+RobotBlocksBlock destructor 106
+BuildingBlock destructor
+World destructor
